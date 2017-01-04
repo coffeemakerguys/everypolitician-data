@@ -589,12 +589,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parliament.gh/userfiles/mps/",
-      "images": [
-        {
-          "url": "http://www.parliament.gh/userfiles/mps/"
-        }
-      ],
       "name": "Amadu Moses Yahaya"
     },
     {
@@ -1118,20 +1112,7 @@
       "name": "Benjamin Komla Kpodo"
     },
     {
-      "gender": "male",
-      "id": "f6323b2c-ee57-4cc0-91f8-0ead43f38466",
-      "identifiers": [
-        {
-          "identifier": "411",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gh/userfiles/mps/",
-      "images": [
-        {
-          "url": "http://www.parliament.gh/userfiles/mps/"
-        }
-      ],
+      "id": "21da7b14-4b5d-4d88-a7ff-89f86029ae85",
       "name": "Benson Tongo Baba"
     },
     {
@@ -1224,14 +1205,7 @@
       "name": "Bright Edward Kodzo Demordzi"
     },
     {
-      "gender": "male",
-      "id": "bcc66c18-cbe0-4bba-bc27-38dcca7e2bee",
-      "identifiers": [
-        {
-          "identifier": "34",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
+      "id": "a71cee0d-313e-496b-819a-7967ed61788a",
       "image": "http://www.parliament.gh/userfiles/mps/Hon_Acheampong_Bryan.jpg",
       "images": [
         {
@@ -5443,6 +5417,24 @@
       "name": "Peter Nortsu-Kotoe"
     },
     {
+      "birth_date": "1954-05-09",
+      "gender": "male",
+      "id": "bcc66c18-cbe0-4bba-bc27-38dcca7e2bee",
+      "identifiers": [
+        {
+          "identifier": "34",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gh/userfiles/mps/273_PEPERA_PETER_WIAFE.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gh/userfiles/mps/273_PEPERA_PETER_WIAFE.jpg"
+        }
+      ],
+      "name": "Peter Wiafe Pepera"
+    },
+    {
       "birth_date": "1969-11-18",
       "gender": "male",
       "id": "bb65838d-5d86-4bf6-a9c9-2b2097e3ce04",
@@ -5597,6 +5589,31 @@
         }
       ],
       "name": "Robert Kwasi Amoah"
+    },
+    {
+      "birth_date": "1953-11-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rnd_moso2@yahoo.com"
+        }
+      ],
+      "email": "rnd_moso2@yahoo.com",
+      "gender": "male",
+      "id": "f6323b2c-ee57-4cc0-91f8-0ead43f38466",
+      "identifiers": [
+        {
+          "identifier": "411",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gh/userfiles/mps/22_MOSOORE_ROBERT_N_D_1.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gh/userfiles/mps/22_MOSOORE_ROBERT_N_D_1.jpg"
+        }
+      ],
+      "name": "Robert Nachinab Doameng Mosore"
     },
     {
       "birth_date": "1970-04-01",
@@ -7464,6 +7481,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/talensi,_upper_east",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/national_democratic_congress",
+      "organization_id": "f971230c-76ef-4828-8889-0aba2f8f525e",
+      "person_id": "21da7b14-4b5d-4d88-a7ff-89f86029ae85",
+      "role": "member"
+    },
+    {
       "area_id": "area/ablekuma_central,_greater_accra",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/national_democratic_congress",
@@ -8640,6 +8665,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/abetifi,_eastern",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/new_patriotic_party",
+      "organization_id": "f971230c-76ef-4828-8889-0aba2f8f525e",
+      "person_id": "a71cee0d-313e-496b-819a-7967ed61788a",
+      "role": "member"
+    },
+    {
       "area_id": "area/jirapa,_upper_west",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/independent",
@@ -9322,7 +9355,7 @@
     {
       "area_id": "area/talensi,_upper_east",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/national_democratic_congress",
+      "on_behalf_of_id": "party/new_patriotic_party",
       "organization_id": "f971230c-76ef-4828-8889-0aba2f8f525e",
       "person_id": "f6323b2c-ee57-4cc0-91f8-0ead43f38466",
       "role": "member"
