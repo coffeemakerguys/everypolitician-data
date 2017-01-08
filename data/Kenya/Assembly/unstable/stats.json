@@ -1,19 +1,19 @@
 {
   "people": {
-    "count": 355,
-    "wikidata": 47,
+    "count": 115,
+    "wikidata": 19,
     "latest_term": {
-      "count": 355,
+      "count": 115,
       "contacts": {
-        "email": 276,
-        "facebook": 86,
-        "twitter": 40
+        "email": 88,
+        "facebook": 40,
+        "twitter": 17
       }
     }
   },
   "groups": {
-    "count": 22,
-    "wikidata": 22
+    "count": 17,
+    "wikidata": 17
   },
   "terms": {
     "count": 1,
