@@ -198,7 +198,22 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P768": "Sălaj County"
+      }
+    },
+    {
+      "id": "Q19938957",
+      "label": "member of the Senate of Romania",
+      "title": "member of the Senate of Romania",
+      "description": "member of the upper house of the Parliament of Romania",
+      "qualifiers": {
+        "P580": "1992-10-21",
+        "P582": "2004-12-16",
+        "P768": "Sălaj County"
+      }
     }
   ],
   "Q7933409": [
@@ -859,7 +874,23 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P768": "Sălaj County"
+      }
+    },
+    {
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor (of Zalău)",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P642": "Zalău",
+        "P580": "2000",
+        "P582": "2004",
+        "P1366": "Sandu Victor Radu Căpîlnașiu"
+      }
     }
   ],
   "Q21179344": [
@@ -2052,7 +2083,11 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2004-12-17",
+        "P768": "Sibiu County"
+      }
     }
   ],
   "Q21747073": [
@@ -2407,6 +2442,28 @@
       "qualifiers": {
         "P580": "2016-12-20",
         "P768": "Bihor County"
+      }
+    }
+  ],
+  "Q21746972": [
+    {
+      "id": "Q19938957",
+      "label": "member of the Senate of Romania",
+      "title": "member of the Senate of Romania",
+      "description": "member of the upper house of the Parliament of Romania",
+      "qualifiers": {
+        "P580": "2016-12-21",
+        "P768": "Sibiu County"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
+        "P582": "2016-12-20",
+        "P768": "Sibiu County"
       }
     }
   ],
