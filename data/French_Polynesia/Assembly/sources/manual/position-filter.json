@@ -40,7 +40,18 @@
   },
   "unknown": {
     "unknown": [
-
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "description": "head of municipal government such as a town or city",
+        "count": 1
+      },
+      {
+        "id": "Q9200127",
+        "name": "member",
+        "description": "constitutive components of a corporate body",
+        "count": 4
+      }
     ]
   }
 }
