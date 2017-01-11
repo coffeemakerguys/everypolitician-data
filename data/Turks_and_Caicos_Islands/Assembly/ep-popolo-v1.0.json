@@ -448,16 +448,6 @@
       "name": "Goldray McMillin Ewing"
     },
     {
-      "id": "3c299e63-20b4-49f0-b5c3-7de4d18a2b93",
-      "image": "https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/15590534_222364638207101_6934125961288398515_n.jpg?oh=773872f1b873e80e507a35c8b7c18208&oe=58DE0F04",
-      "images": [
-        {
-          "url": "https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/15590534_222364638207101_6934125961288398515_n.jpg?oh=773872f1b873e80e507a35c8b7c18208&oe=58DE0F04"
-        }
-      ],
-      "name": "Hon. Ralph Higgs"
-    },
-    {
       "gender": "male",
       "id": "3e8718af-2588-44ef-9516-551a19be3f13",
       "identifiers": [
@@ -661,6 +651,16 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "id": "3c299e63-20b4-49f0-b5c3-7de4d18a2b93",
+      "image": "https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/15590534_222364638207101_6934125961288398515_n.jpg?oh=773872f1b873e80e507a35c8b7c18208&oe=58DE0F04",
+      "images": [
+        {
+          "url": "https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/15590534_222364638207101_6934125961288398515_n.jpg?oh=773872f1b873e80e507a35c8b7c18208&oe=58DE0F04"
+        }
+      ],
+      "name": "Ralph Higgs"
     },
     {
       "gender": "male",
