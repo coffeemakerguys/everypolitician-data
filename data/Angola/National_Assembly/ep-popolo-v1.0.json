@@ -700,7 +700,14 @@
       "name": "ANÍBAL JOÃO DA SILVA MELO"
     },
     {
-      "id": "39001b29-268e-4f81-8035-ae097cf20a9c",
+      "gender": "male",
+      "id": "4d828576-8ad2-47dd-a586-73c1ea3ec65b",
+      "identifiers": [
+        {
+          "identifier": "armndo.neto",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=armando.neto&companyId=10132",
       "images": [
         {
@@ -711,29 +718,6 @@
         {
           "note": "website",
           "url": "http://www.parlamento.ao/web/armando.neto"
-        }
-      ],
-      "name": "ARMANDO DA CRUZ NETO"
-    },
-    {
-      "gender": "male",
-      "id": "4d828576-8ad2-47dd-a586-73c1ea3ec65b",
-      "identifiers": [
-        {
-          "identifier": "armndo.neto",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamento.ao/image/user_portrait?screenName=armndo.neto&companyId=10132",
-      "images": [
-        {
-          "url": "http://www.parlamento.ao/image/user_portrait?screenName=armndo.neto&companyId=10132"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.parlamento.ao/web/armndo.neto"
         }
       ],
       "name": "ARMANDO DA CRUZ NETO"
@@ -2728,22 +2712,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamento.ao/image/user_portrait?screenName=graciana.caetano&companyId=10132",
-      "images": [
-        {
-          "url": "http://www.parlamento.ao/image/user_portrait?screenName=graciana.caetano&companyId=10132"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.parlamento.ao/web/graciana.caetano"
-        }
-      ],
-      "name": "GRACIANA EUGÉNIA MANUEL PEDRO NEVES CAETANO"
-    },
-    {
-      "id": "efb304da-d771-4c78-a931-bb8f2ef7f981",
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=23graciana.caetano&companyId=10132",
       "images": [
         {
@@ -2966,7 +2934,14 @@
       "name": "JOANA DE JESUS DA CONCEIÇÃO PEDRO ANDRÉ E PEDRO"
     },
     {
-      "id": "9b7d1c38-21d3-4f91-a40d-f9f3e00ca39b",
+      "gender": "female",
+      "id": "d10ebc87-04e7-445c-8d76-9fcc2fab2364",
+      "identifiers": [
+        {
+          "identifier": "joana.candido",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=joana.baptista&companyId=10132",
       "images": [
         {
@@ -2980,29 +2955,6 @@
         }
       ],
       "name": "JOANA LINA RAMOS BAPTISTA"
-    },
-    {
-      "gender": "female",
-      "id": "d10ebc87-04e7-445c-8d76-9fcc2fab2364",
-      "identifiers": [
-        {
-          "identifier": "joana.candido",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parlamento.ao/image/user_portrait?screenName=joana.candido&companyId=10132",
-      "images": [
-        {
-          "url": "http://www.parlamento.ao/image/user_portrait?screenName=joana.candido&companyId=10132"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.parlamento.ao/web/joana.candido"
-        }
-      ],
-      "name": "JOANA LINA RAMOS BAPTISTA CÂNDIDO"
     },
     {
       "gender": "female",
@@ -3180,22 +3132,6 @@
         }
       ],
       "name": "JOSÉ DA COSTA UAMUHAMA"
-    },
-    {
-      "id": "2dd12589-18e0-4f07-a7f2-47a5f0522008",
-      "image": "http://www.parlamento.ao/image/user_portrait?screenName=jose.uamuhana&companyId=10132",
-      "images": [
-        {
-          "url": "http://www.parlamento.ao/image/user_portrait?screenName=jose.uamuhana&companyId=10132"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.parlamento.ao/web/jose.uamuhana"
-        }
-      ],
-      "name": "JOSÉ DA COSTA UAMUHANA"
     },
     {
       "gender": "male",
@@ -3451,22 +3387,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlamento.ao/image/user_portrait?screenName=joao.ntiama&companyId=10132",
-      "images": [
-        {
-          "url": "http://www.parlamento.ao/image/user_portrait?screenName=joao.ntiama&companyId=10132"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.parlamento.ao/web/joao.ntiama"
-        }
-      ],
-      "name": "JOÃO MARQUES NTIAMA"
-    },
-    {
-      "id": "a3214f15-8a98-4b6a-ac54-1c50397c07a1",
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=0joao.ntiama&companyId=10132",
       "images": [
         {
@@ -7714,14 +7634,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/lunda_norte",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "2dd12589-18e0-4f07-a7f2-47a5f0522008",
-      "role": "member"
-    },
-    {
       "area_id": "area/uíge",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "party/mpla",
@@ -7855,13 +7767,6 @@
       "on_behalf_of_id": "party/mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "38869c34-9135-4ea9-bdf0-2ba0b1431315",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "39001b29-268e-4f81-8035-ae097cf20a9c",
       "role": "member"
     },
     {
@@ -8448,13 +8353,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "9b7d1c38-21d3-4f91-a40d-f9f3e00ca39b",
-      "role": "member"
-    },
-    {
       "area_id": "area/nacional",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "party/mpla",
@@ -8508,14 +8406,6 @@
       "on_behalf_of_id": "party/mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "a2e849a1-eef3-4dc4-b5ab-9c9e484d3cf9",
-      "role": "member"
-    },
-    {
-      "area_id": "area/zaire",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/unita",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "a3214f15-8a98-4b6a-ac54-1c50397c07a1",
       "role": "member"
     },
     {
@@ -8823,6 +8713,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "d10ebc87-04e7-445c-8d76-9fcc2fab2364",
+      "role": "member"
+    },
+    {
       "area_id": "area/nacional",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "party/unita",
@@ -9076,14 +8973,6 @@
       "on_behalf_of_id": "party/mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "ef852706-2b20-4a3f-b0c5-02fe1727b685",
-      "role": "member"
-    },
-    {
-      "area_id": "area/cuanza_norte",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "efb304da-d771-4c78-a931-bb8f2ef7f981",
       "role": "member"
     },
     {
