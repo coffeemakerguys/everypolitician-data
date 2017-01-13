@@ -9815,11 +9815,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Tanzania/Assembly/sources",
         "popolo": "data/Tanzania/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d16a4ece206a219f5313fb648099f655b740f879/data/Tanzania/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8521515dc8a70ce5d1d97d2129ee733dbdb4da06/data/Tanzania/Assembly/ep-popolo-v1.0.json",
         "names": "data/Tanzania/Assembly/names.csv",
-        "lastmod": "1484242026",
-        "person_count": 887,
-        "sha": "d16a4ece206a219f5313fb648099f655b740f879",
+        "lastmod": "1484303599",
+        "person_count": 889,
+        "sha": "8521515dc8a70ce5d1d97d2129ee733dbdb4da06",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -9827,7 +9827,7 @@
             "start_date": "2015-11-17",
             "slug": "5",
             "csv": "data/Tanzania/Assembly/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d16a4ece206a219f5313fb648099f655b740f879/data/Tanzania/Assembly/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8521515dc8a70ce5d1d97d2129ee733dbdb4da06/data/Tanzania/Assembly/term-5.csv"
           },
           {
             "end_date": "2015-06-18",
@@ -9857,7 +9857,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d16a4ece206a219f5313fb648099f655b740f879/data/Tanzania/Assembly/term-2.csv"
           }
         ],
-        "statement_count": 26774,
+        "statement_count": 26817,
         "type": "unicameral legislature"
       }
     ]
