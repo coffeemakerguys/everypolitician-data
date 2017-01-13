@@ -33271,6 +33271,10 @@
         {
           "type": "email",
           "value": "zvulu@parliament.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255787004060"
         }
       ],
       "email": "zvulu@parliament.go.tz",
@@ -33294,6 +33298,28 @@
       "sort_name": "Vullu Mattitu Zaynab"
     },
     {
+      "birth_date": "1986-07-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "z.sukuru@bunge.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255762349831"
+        }
+      ],
+      "email": "z.sukuru@bunge.go.tz",
+      "id": "ccb27f4a-7c04-4e17-af59-7e86023349d2",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.25292500%201451550464.png",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.25292500%201451550464.png"
+        }
+      ],
+      "name": "Zubeda Hassan Sakuru"
+    },
+    {
       "gender": "male",
       "id": "0ba2af2e-545d-4b42-b5e2-469a832600c1",
       "identifiers": [
@@ -33310,6 +33336,28 @@
       ],
       "name": "Zubeir Ngwali Mzee",
       "sort_name": "Zubeir Ngwali Mzee"
+    },
+    {
+      "birth_date": "1962-06-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "z.kachauka@bunge.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255719672200"
+        }
+      ],
+      "email": "z.kachauka@bunge.go.tz",
+      "id": "a2496fb1-f340-46b9-bb69-118b90f5a7cf",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.34308600%201453653657.png",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.34308600%201453653657.png"
+        }
+      ],
+      "name": "Zuberi Mohamedi Kuchauka"
     }
   ],
   "organizations": [
@@ -44926,6 +44974,19 @@
       ]
     },
     {
+      "area_id": "area/liwale",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/cuf",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "a2496fb1-f340-46b9-bb69-118b90f5a7cf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/117"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/chama_cha_mapinduzi",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
@@ -47629,6 +47690,19 @@
       ]
     },
     {
+      "area_id": "area/special_seats",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/chadema",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "ccb27f4a-7c04-4e17-af59-7e86023349d2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/362"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/chama_cha_mapinduzi",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
@@ -48466,6 +48540,19 @@
       "sources": [
         {
           "url": "http://www.parliament.go.tz/index.php/members/mpcvs/1303/4"
+        }
+      ]
+    },
+    {
+      "area_id": "area/special_seats",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "d9669ceb-dfbe-4bd9-a0d2-5b3a0873deec",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/186"
         }
       ]
     },
