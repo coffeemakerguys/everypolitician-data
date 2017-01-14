@@ -1,7 +1,7 @@
 {
   "people": {
-    "count": 1121,
-    "wikidata": 469,
+    "count": 441,
+    "wikidata": 300,
     "latest_term": {
       "count": 228,
       "contacts": {
@@ -12,11 +12,11 @@
     }
   },
   "groups": {
-    "count": 42,
-    "wikidata": 42
+    "count": 23,
+    "wikidata": 23
   },
   "terms": {
-    "count": 13,
+    "count": 4,
     "latest": "2013-06-24",
     "wikidata": 0
   },
