@@ -176,12 +176,17 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives somaliennes de 2016",
+        "name": "élections législatives somaliennes de 2016",
         "note": "multilingual"
       },
       {
         "lang": "zh",
         "name": "2016年索馬里議會選舉",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Parlamentsvalet i Somalia 2016",
         "note": "multilingual"
       }
     ],
