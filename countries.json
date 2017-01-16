@@ -11082,11 +11082,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Uruguay/Deputies/sources",
         "popolo": "data/Uruguay/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/803addbed3d01f371781e5cf56377246aa2f7163/data/Uruguay/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dbb5e820772125e322d394358b6d53e44681da01/data/Uruguay/Deputies/ep-popolo-v1.0.json",
         "names": "data/Uruguay/Deputies/names.csv",
-        "lastmod": "1484415622",
+        "lastmod": "1484571291",
         "person_count": 106,
-        "sha": "803addbed3d01f371781e5cf56377246aa2f7163",
+        "sha": "dbb5e820772125e322d394358b6d53e44681da01",
         "legislative_periods": [
           {
             "id": "term/48",
@@ -11094,10 +11094,10 @@
             "start_date": "2015-02-15",
             "slug": "48",
             "csv": "data/Uruguay/Deputies/term-48.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/803addbed3d01f371781e5cf56377246aa2f7163/data/Uruguay/Deputies/term-48.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dbb5e820772125e322d394358b6d53e44681da01/data/Uruguay/Deputies/term-48.csv"
           }
         ],
-        "statement_count": 3177,
+        "statement_count": 3581,
         "type": "lower house"
       }
     ]
