@@ -31,6 +31,56 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "ddorji@mfa.gov.bt"
+        }
+      ],
+      "email": "ddorji@mfa.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "d9fd66a3-1f08-4635-b706-25928fa6456c",
+      "identifiers": [
+        {
+          "identifier": "3",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Lyonpo-Damcho-Dorji.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Lyonpo-Damcho-Dorji.jpg"
+        }
+      ],
+      "name": "Damcho Dorji"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dgyaltshen@mohca.gov.bt"
+        }
+      ],
+      "email": "dgyaltshen@mohca.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "40ce533e-7193-410e-bd38-c418468d89f8",
+      "identifiers": [
+        {
+          "identifier": "16",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dgyaltshen.JPG",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dgyaltshen.JPG"
+        }
+      ],
+      "name": "Dawa Gyaltshen"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "dzangmo@nab.gov.bt"
         }
       ],
@@ -55,6 +105,31 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "dndhungyel@moic.gov.bt"
+        }
+      ],
+      "email": "dndhungyel@moic.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "6b61a9ec-c269-466a-a7b6-dbbf7c701b04",
+      "identifiers": [
+        {
+          "identifier": "10",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dn-dungyel.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dn-dungyel.jpg"
+        }
+      ],
+      "name": "Dina Nath Dhungyel"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "dophudukpa@nab.gov.bt"
         }
       ],
@@ -74,6 +149,31 @@
         }
       ],
       "name": "Dophu Dukpa"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dchoden@mowhs.gov.bt"
+        }
+      ],
+      "email": "dchoden@mowhs.gov.bt",
+      "gender": "female",
+      "honorific_prefix": "Lyonopo",
+      "id": "87e4847d-73a9-4359-abdc-5190cbf239dc",
+      "identifiers": [
+        {
+          "identifier": "4",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dorji-choden.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dorji-choden.jpg"
+        }
+      ],
+      "name": "Dorji Choden"
     },
     {
       "contact_details": [
@@ -223,6 +323,31 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "jzangpo@nab.gov.bt"
+        }
+      ],
+      "email": "jzangpo@nab.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "0a450d5f-6932-4daf-a01d-7ee72ddd5f90",
+      "identifiers": [
+        {
+          "identifier": "2",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-jigme-zangpo.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-jigme-zangpo.jpg"
+        }
+      ],
+      "name": "Jigme Zangpo"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "kdorji@nab.gov.bt"
         }
       ],
@@ -343,30 +468,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "ktshering@nab.gov.bt"
-        }
-      ],
-      "email": "ktshering@nab.gov.bt",
-      "gender": "male",
-      "id": "602d0a26-eb66-484c-a27c-b9ba26860c66",
-      "identifiers": [
-        {
-          "identifier": "35",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/kinga-tshering.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/kinga-tshering.jpg"
-        }
-      ],
-      "name": "Kinga Tshering"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "kom@nab.gov.bt"
         }
       ],
@@ -415,6 +516,31 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "lekeyd@moea.gov.bt"
+        }
+      ],
+      "email": "lekeyd@moea.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "de3385ea-a9be-4913-a278-ca7196131ad3",
+      "identifiers": [
+        {
+          "identifier": "46",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/LLekeyd.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/LLekeyd.jpg"
+        }
+      ],
+      "name": "Lekey Dorji"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "ttobgay@cabinet.gov.bt"
         }
       ],
@@ -434,270 +560,6 @@
         }
       ],
       "name": "Lyonchhen Tshering Tobgay"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ddorji@mfa.gov.bt"
-        }
-      ],
-      "email": "ddorji@mfa.gov.bt",
-      "gender": "male",
-      "id": "d9fd66a3-1f08-4635-b706-25928fa6456c",
-      "identifiers": [
-        {
-          "identifier": "3",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Lyonpo-Damcho-Dorji.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Lyonpo-Damcho-Dorji.jpg"
-        }
-      ],
-      "name": "Lyonpo Damcho Dorji"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dgyaltshen@mohca.gov.bt"
-        }
-      ],
-      "email": "dgyaltshen@mohca.gov.bt",
-      "gender": "male",
-      "id": "40ce533e-7193-410e-bd38-c418468d89f8",
-      "identifiers": [
-        {
-          "identifier": "16",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dgyaltshen.JPG",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dgyaltshen.JPG"
-        }
-      ],
-      "name": "Lyonpo Dawa Gyaltshen"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dndhungyel@moic.gov.bt"
-        }
-      ],
-      "email": "dndhungyel@moic.gov.bt",
-      "gender": "male",
-      "id": "6b61a9ec-c269-466a-a7b6-dbbf7c701b04",
-      "identifiers": [
-        {
-          "identifier": "10",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dn-dungyel.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dn-dungyel.jpg"
-        }
-      ],
-      "name": "Lyonpo Dina Nath Dhungyel"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dchoden@mowhs.gov.bt"
-        }
-      ],
-      "email": "dchoden@mowhs.gov.bt",
-      "gender": "female",
-      "id": "87e4847d-73a9-4359-abdc-5190cbf239dc",
-      "identifiers": [
-        {
-          "identifier": "4",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dorji-choden.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dorji-choden.jpg"
-        }
-      ],
-      "name": "Lyonpo Dorji Choden"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jzangpo@nab.gov.bt"
-        }
-      ],
-      "email": "jzangpo@nab.gov.bt",
-      "gender": "male",
-      "id": "0a450d5f-6932-4daf-a01d-7ee72ddd5f90",
-      "identifiers": [
-        {
-          "identifier": "2",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-jigme-zangpo.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-jigme-zangpo.jpg"
-        }
-      ],
-      "name": "Lyonpo Jigme Zangpo"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lekeyd@moea.gov.bt"
-        }
-      ],
-      "email": "lekeyd@moea.gov.bt",
-      "gender": "male",
-      "id": "de3385ea-a9be-4913-a278-ca7196131ad3",
-      "identifiers": [
-        {
-          "identifier": "46",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/LLekeyd.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/LLekeyd.jpg"
-        }
-      ],
-      "name": "Lyonpo Lekey Dorji"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "namgay@mof.gov.bt"
-        }
-      ],
-      "email": "namgay@mof.gov.bt",
-      "gender": "male",
-      "id": "1f6dcc19-dbee-445c-8cb4-88644a6825bd",
-      "identifiers": [
-        {
-          "identifier": "9",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-namgay-dorji1.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-namgay-dorji1.jpg"
-        }
-      ],
-      "name": "Lyonpo Namgay Dorji"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nstshempo@molhr.gov.bt"
-        }
-      ],
-      "email": "nstshempo@molhr.gov.bt",
-      "gender": "male",
-      "id": "fa570e89-ddbf-4c3a-8e3e-62b8efd36d30",
-      "identifiers": [
-        {
-          "identifier": "7",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-ngeema-sangay-tshemp.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-ngeema-sangay-tshemp.jpg"
-        }
-      ],
-      "name": "Lyonpo Ngeema Sangay Tshempo"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "minister@education.gov.bt"
-        }
-      ],
-      "email": "minister@education.gov.bt",
-      "gender": "male",
-      "id": "45af3621-d325-49c8-88ff-941260fe6112",
-      "identifiers": [
-        {
-          "identifier": "11",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-norbu-wangchuk.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-norbu-wangchuk.jpg"
-        }
-      ],
-      "name": "Lyonpo Norbu Wangchuk"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "twangchuk@health.gov.bt"
-        }
-      ],
-      "email": "twangchuk@health.gov.bt",
-      "gender": "male",
-      "id": "4d1e5b6e-d3a9-4181-ad01-8e5896d0a04e",
-      "identifiers": [
-        {
-          "identifier": "8",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-tandin-wangchuk.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-tandin-wangchuk.jpg"
-        }
-      ],
-      "name": "Lyonpo Tandin Wangchuk"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ydorji@moaf.gov.bt"
-        }
-      ],
-      "email": "ydorji@moaf.gov.bt",
-      "gender": "male",
-      "id": "828f2fef-d260-426c-a435-5529118e1fe3",
-      "identifiers": [
-        {
-          "identifier": "12",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-yeshey-dorji.jpg",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-yeshey-dorji.jpg"
-        }
-      ],
-      "name": "Lyonpo Yeshey Dorji"
     },
     {
       "contact_details": [
@@ -751,6 +613,56 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "namgay@mof.gov.bt"
+        }
+      ],
+      "email": "namgay@mof.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "1f6dcc19-dbee-445c-8cb4-88644a6825bd",
+      "identifiers": [
+        {
+          "identifier": "9",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-namgay-dorji1.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-namgay-dorji1.jpg"
+        }
+      ],
+      "name": "Namgay Dorji"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nstshempo@molhr.gov.bt"
+        }
+      ],
+      "email": "nstshempo@molhr.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "fa570e89-ddbf-4c3a-8e3e-62b8efd36d30",
+      "identifiers": [
+        {
+          "identifier": "7",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-ngeema-sangay-tshemp.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-ngeema-sangay-tshemp.jpg"
+        }
+      ],
+      "name": "Ngeema Sangay Tshempo"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "nzangpo@nab.gov.bt"
         }
       ],
@@ -770,6 +682,31 @@
         }
       ],
       "name": "Nidup Zangpo"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "minister@education.gov.bt"
+        }
+      ],
+      "email": "minister@education.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "45af3621-d325-49c8-88ff-941260fe6112",
+      "identifiers": [
+        {
+          "identifier": "11",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-norbu-wangchuk.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-norbu-wangchuk.jpg"
+        }
+      ],
+      "name": "Norbu Wangchuk"
     },
     {
       "contact_details": [
@@ -967,6 +904,31 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "twangchuk@health.gov.bt"
+        }
+      ],
+      "email": "twangchuk@health.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "4d1e5b6e-d3a9-4181-ad01-8e5896d0a04e",
+      "identifiers": [
+        {
+          "identifier": "8",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-tandin-wangchuk.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-tandin-wangchuk.jpg"
+        }
+      ],
+      "name": "Tandin Wangchuk"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "tbsubba@nab.gov.bt"
         }
       ],
@@ -1075,6 +1037,31 @@
         }
       ],
       "name": "Wangdi Norbu"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ydorji@moaf.gov.bt"
+        }
+      ],
+      "email": "ydorji@moaf.gov.bt",
+      "gender": "male",
+      "honorific_prefix": "Lyonopo",
+      "id": "828f2fef-d260-426c-a435-5529118e1fe3",
+      "identifiers": [
+        {
+          "identifier": "12",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-yeshey-dorji.jpg",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-yeshey-dorji.jpg"
+        }
+      ],
+      "name": "Yeshey Dorji"
     },
     {
       "contact_details": [
@@ -1593,19 +1580,6 @@
       "sources": [
         {
           "url": "http://www.nab.gov.bt/member/member_detail/43"
-        }
-      ]
-    },
-    {
-      "area_id": "area/north_thimphu",
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "DPT",
-      "organization_id": "e2932442-90a3-4bfe-a479-9855e3deb001",
-      "person_id": "602d0a26-eb66-484c-a27c-b9ba26860c66",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.nab.gov.bt/member/member_detail/35"
         }
       ]
     },
