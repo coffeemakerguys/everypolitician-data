@@ -3466,22 +3466,11 @@
     },
     {
       "birth_date": "1949-01-01",
-      "id": "05fed40b-0d8d-4aed-b317-b05eaa8ce9a7",
-      "name": "محمد بلال"
-    },
-    {
-      "birth_date": "1949-01-01",
       "id": "3ba0b79b-5e96-41a8-8804-15638e50a865",
       "identifiers": [
         {
           "identifier": "137",
           "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.sy/SD08/msf/1432462569_.png",
-      "images": [
-        {
-          "url": "http://parliament.gov.sy/SD08/msf/1432462569_.png"
         }
       ],
       "name": "محمد بلال"
@@ -5128,19 +5117,6 @@
       ]
     },
     {
-      "area_id": "area/اللاذقية",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/حزب_البعث_العربي_الاشتراكي",
-      "organization_id": "38d3ebeb-ed76-41c6-8b30-5ad9900f8f21",
-      "person_id": "05fed40b-0d8d-4aed-b317-b05eaa8ce9a7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.sy/arabic/index.php?node=211&nid=0&RID=1&Last=262&First=0&CurrentPage=0&FName=&LName=&City=&Cat=&Mem=&Com=&Aso=&or=&"
-        }
-      ]
-    },
-    {
       "area_id": "area/الحسكة",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/حزب_البعث_العربي_الاشتراكي",
@@ -5994,6 +5970,19 @@
       "sources": [
         {
           "url": "http://parliament.gov.sy/arabic/index.php?node=211&nid=279&RID=1&Last=262&First=0&CurrentPage=0&FName=&LName=&City=&Cat=&Mem=&Com=&Aso=&or=&"
+        }
+      ]
+    },
+    {
+      "area_id": "area/اللاذقية",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/حزب_البعث_العربي_الاشتراكي",
+      "organization_id": "38d3ebeb-ed76-41c6-8b30-5ad9900f8f21",
+      "person_id": "3ba0b79b-5e96-41a8-8804-15638e50a865",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.sy/arabic/index.php?node=211&nid=0&RID=1&Last=262&First=0&CurrentPage=0&FName=&LName=&City=&Cat=&Mem=&Com=&Aso=&or=&"
         }
       ]
     },
