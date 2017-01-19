@@ -1,22 +1,22 @@
 {
   "people": {
-    "count": 2,
-    "wikidata": 1,
+    "count": 1783,
+    "wikidata": 312,
     "latest_term": {
-      "count": 1,
+      "count": 302,
       "contacts": {
-        "email": 1,
-        "facebook": 0,
-        "twitter": 0
+        "email": 234,
+        "facebook": 2,
+        "twitter": 131
       }
     }
   },
   "groups": {
-    "count": 3,
-    "wikidata": 3
+    "count": 25,
+    "wikidata": 24
   },
   "terms": {
-    "count": 7,
+    "count": 17,
     "latest": "2015-09-20",
     "wikidata": 0
   },
