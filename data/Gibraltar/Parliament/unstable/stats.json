@@ -1,9 +1,9 @@
 {
   "people": {
-    "count": 83,
+    "count": 89,
     "wikidata": 22,
     "latest_term": {
-      "count": 24,
+      "count": 18,
       "contacts": {
         "email": 0,
         "facebook": 0,
@@ -16,8 +16,8 @@
     "wikidata": 4
   },
   "terms": {
-    "count": 12,
-    "latest": "2011-12-21",
+    "count": 13,
+    "latest": "2015-12-09",
     "wikidata": 0
   },
   "elections": {

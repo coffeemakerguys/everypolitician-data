@@ -468,7 +468,7 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "C G Beltran"
+      "name": "C Beltran"
     },
     {
       "honorific_prefix": "Miss",
@@ -599,6 +599,10 @@
       ]
     },
     {
+      "id": "2ae9d3bb-d793-43ad-80ca-02e7cac70a04",
+      "name": "E J Phillips"
+    },
+    {
       "family_name": "Isola",
       "gender": "male",
       "given_name": "Albert",
@@ -629,8 +633,12 @@
           "url": "https://en.wikipedia.org/wiki/Albert_Isola"
         }
       ],
-      "name": "A Isola",
+      "name": "A J Isola",
       "other_names": [
+        {
+          "name": "A Isola",
+          "note": "alternate"
+        },
         {
           "name": "Albert Isola",
           "note": "alternate"
@@ -950,6 +958,10 @@
       "name": "B Traynor"
     },
     {
+      "id": "4c4c93c4-55bb-4dea-81a6-f3796936d4c2",
+      "name": "T N Hammond"
+    },
+    {
       "family_name": "Cortes",
       "gender": "male",
       "given_name": "John Emmanuel",
@@ -1071,6 +1083,10 @@
         }
       ],
       "sort_name": "Cortes, John Emmanuel"
+    },
+    {
+      "id": "5778ed75-5334-4110-87a4-204b18db3f91",
+      "name": "R M Clinton"
     },
     {
       "honorific_prefix": "Major",
@@ -1911,6 +1927,10 @@
       "sort_name": "Picardo, Fabian Raymond"
     },
     {
+      "id": "be0535fe-d5b2-4460-a020-9d52171b0850",
+      "name": "N F Costa - Minister For Business & Employment"
+    },
+    {
       "honorific_suffix": "QC",
       "id": "bf729a66-c3cb-4838-9a24-0005245edb73",
       "identifiers": [
@@ -2412,6 +2432,11 @@
       "sort_name": "Caruana, Peter Richard"
     },
     {
+      "honorific_prefix": "Ms",
+      "id": "cd80cdc9-6465-4fb3-9add-a3e5ebaa10e7",
+      "name": "M D Hassan Nahon"
+    },
+    {
       "family_name": "Sacramento",
       "gender": "female",
       "given_name": "Samantha Jane",
@@ -2594,7 +2619,7 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "F J Vinet"
+      "name": "F Vinet"
     },
     {
       "family_name": "Mor",
@@ -2832,6 +2857,10 @@
         }
       ],
       "sort_name": "Licudi, Gilbert Horace"
+    },
+    {
+      "id": "f0ea9b12-f149-467c-80a4-a2ca86ded873",
+      "name": "L F Llamas"
     },
     {
       "family_name": "Montegriffo",
@@ -3406,6 +3435,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "0ca908c5-3da4-437a-ab8d-a112b4dfd3be",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
@@ -3658,8 +3694,15 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/gibraltar_socialist_labour_party",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "2ae9d3bb-d793-43ad-80ca-02e7cac70a04",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "2c24b73f-5770-40e3-bc6e-38c32664db83",
       "role": "member"
@@ -3701,13 +3744,6 @@
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
-      "person_id": "34328435-d155-4611-be08-ff24fac4fa78",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "34328435-d155-4611-be08-ff24fac4fa78",
@@ -3756,6 +3792,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "3e3e02a9-07ac-47f9-b314-a57ef22b0ae1",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/gibraltar_socialist_labour_party_/_gibraltar_liberal_party",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
@@ -3784,6 +3827,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "4c4c93c4-55bb-4dea-81a6-f3796936d4c2",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/gibraltar_socialist_labour_party",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
@@ -3791,6 +3841,20 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "4fa0a2c8-85f3-4d67-b842-164ad8643fe4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "5778ed75-5334-4110-87a4-204b18db3f91",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
@@ -3882,13 +3946,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
-      "person_id": "6c093d83-2782-4c2d-8b32-006f85df137f",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
@@ -3967,13 +4024,6 @@
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
-      "person_id": "6ffe17fb-24d1-4dc3-b44b-068e76baad64",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "6ffe17fb-24d1-4dc3-b44b-068e76baad64",
@@ -4051,13 +4101,6 @@
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
-      "person_id": "7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
@@ -4150,6 +4193,13 @@
     {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/gibraltar_socialist_labour_party",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "922ff780-b1a4-4478-bbcc-b5279f8fd00d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "922ff780-b1a4-4478-bbcc-b5279f8fd00d",
       "role": "member"
@@ -4316,6 +4366,20 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "bb7d02d7-7c4b-4436-a9dd-25f5880806e8",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "be0535fe-d5b2-4460-a020-9d52171b0850",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
@@ -4337,13 +4401,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
-      "person_id": "c13f2c7c-b6cc-4a88-bf2a-5a5e8dfd4164",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
@@ -4359,13 +4416,6 @@
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
-      "person_id": "c4520ab6-dc17-4a3c-aacc-572d891d289e",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "c4520ab6-dc17-4a3c-aacc-572d891d289e",
@@ -4407,6 +4457,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "c7d56154-99af-446f-9f03-3bc8e62a440d",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
@@ -4423,6 +4480,13 @@
     {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/gibraltar_liberal_party",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "c867c252-ba93-4866-ac1d-bc95458c7346",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "c867c252-ba93-4866-ac1d-bc95458c7346",
       "role": "member"
@@ -4484,8 +4548,22 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "cd80cdc9-6465-4fb3-9add-a3e5ebaa10e7",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/gibraltar_socialist_labour_party",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "cde8ca17-d145-4487-b5e7-ffde1f99d62c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "cde8ca17-d145-4487-b5e7-ffde1f99d62c",
       "role": "member"
@@ -4673,6 +4751,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "e3b50e6a-7de7-46ae-ae79-30f6b5a27235",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
@@ -4684,6 +4769,20 @@
       "on_behalf_of_id": "party/gibraltar_socialist_labour_party",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "ef223ab5-d5e1-4bc8-8794-913ffb0fb0ff",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "ef223ab5-d5e1-4bc8-8794-913ffb0fb0ff",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "f0ea9b12-f149-467c-80a4-a2ca86ded873",
       "role": "member"
     },
     {
@@ -4738,6 +4837,13 @@
     {
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/gibraltar_social_democrats",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "person_id": "f49429c6-e660-48a9-b816-4aa03326ac17",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
       "person_id": "f49429c6-e660-48a9-b816-4aa03326ac17",
       "role": "member"
@@ -5137,6 +5243,13 @@
       ],
       "name": "Gibraltar general election, 2015",
       "start_date": "2015-11-26"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/13",
+      "name": "Thirteenth Gibraltar Parliament",
+      "organization_id": "d97c3f1d-78c2-46a8-8508-54d879084c3a",
+      "start_date": "2015-12-09"
     },
     {
       "classification": "general election",
