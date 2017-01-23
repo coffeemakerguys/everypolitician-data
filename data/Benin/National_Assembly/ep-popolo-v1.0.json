@@ -17,23 +17,35 @@
       "name": "Natondé AKE"
     },
     {
-      "family_name": "AGBOJETE",
-      "gender": "male",
-      "given_name": "Hounsa Justin",
-      "id": "0c9abb67-db96-4da5-911b-402dcae0945e",
-      "image": "http://www.assemblee-nationale.bj/components/com_comprofiler/plugin/templates/bootstrap/images/avatar/nophoto_n.png",
-      "images": [
+      "family_name": "PRUDENCIO",
+      "gender": "female",
+      "given_name": "Claudine Affiavi",
+      "id": "1678e5ef-c90c-495d-b06b-820067108aca",
+      "identifiers": [
         {
-          "url": "http://www.assemblee-nationale.bj/components/com_comprofiler/plugin/templates/bootstrap/images/avatar/nophoto_n.png"
+          "identifier": "prudencio_claudine",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Hounsa Justin AGBOJETE"
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/856_55e60169c5b99.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/856_55e60169c5b99.jpg"
+        }
+      ],
+      "name": "Claudine Affiavi PRUDENCIO"
     },
     {
       "family_name": "AKOTEGNON",
       "gender": "male",
       "given_name": "Raphaël",
-      "id": "1b659a14-b5a0-471d-bdc4-3700231e4b21",
+      "id": "17599d48-4158-45b0-aab3-d9bcc346f3fa",
+      "identifiers": [
+        {
+          "identifier": "akotegnon_raphael",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.assemblee-nationale.bj/images/comprofiler/866_55e84b008f710.jpg",
       "images": [
         {
@@ -43,17 +55,42 @@
       "name": "Raphaël AKOTEGNON"
     },
     {
-      "family_name": "HOUDE",
+      "family_name": "OKOUNLOLA-BIAOU",
       "gender": "male",
-      "given_name": "Aditi Valentin",
-      "id": "1d404850-bb22-4553-8fca-b183439e68b1",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/854_55e5fe2d8c198.jpg",
-      "images": [
+      "given_name": "André",
+      "id": "1b2c6405-05fc-40e5-9542-06eec12c8645",
+      "identifiers": [
         {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/854_55e5fe2d8c198.jpg"
+          "identifier": "okounlola_andre",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Aditi Valentin HOUDE"
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/857_55e767ee05097.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/857_55e767ee05097.jpg"
+        }
+      ],
+      "name": "André OKOUNLOLA-BIAOU"
+    },
+    {
+      "family_name": "AHOSSI",
+      "gender": "male",
+      "given_name": "Léon C.",
+      "id": "1c129121-23a5-474d-a700-c163ea77e552",
+      "identifiers": [
+        {
+          "identifier": "ahossi_leon",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/877_55e9bb0fa3fe0.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/877_55e9bb0fa3fe0.jpg"
+        }
+      ],
+      "name": "Léon C. AHOSSI"
     },
     {
       "family_name": "AGBELESSESSI",
@@ -95,19 +132,6 @@
       "name": "Coffi Mathurin NAGO"
     },
     {
-      "family_name": "PRUDENCIO",
-      "gender": "female",
-      "given_name": "Claudine Affiavi",
-      "id": "2e64ff93-c333-456d-a5fd-eb2c64209371",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/856_55e60169c5b99.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/856_55e60169c5b99.jpg"
-        }
-      ],
-      "name": "Claudine Affiavi PRUDENCIO"
-    },
-    {
       "family_name": "VIEYRA",
       "gender": "female",
       "given_name": "Honorine Rose-Marie",
@@ -134,17 +158,41 @@
       "name": "Ahmed Tidjani AFFO OBO"
     },
     {
-      "family_name": "AHOUANVOEBLA",
+      "family_name": "GBADAMASSI",
       "gender": "male",
-      "given_name": "S. Augustin",
-      "id": "4809d024-d782-4bcd-b38b-0908210bf1a6",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/862_55e7717c4f44d.jpg",
-      "images": [
+      "given_name": "Rachidi",
+      "id": "3d1930d4-c4fd-414a-b636-e24bd5a1439a",
+      "identifiers": [
         {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/862_55e7717c4f44d.jpg"
+          "identifier": "gbadamassi_rachidi",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "S. Augustin AHOUANVOEBLA"
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/863_55e8450a29da7.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/863_55e8450a29da7.jpg"
+        }
+      ],
+      "name": "Rachidi GBADAMASSI"
+    },
+    {
+      "family_name": "SCHANOU",
+      "given_name": "Sofiatou",
+      "id": "3f97c4ef-d800-45b9-b9cb-3a435f6d2278",
+      "identifiers": [
+        {
+          "identifier": "schanou_sofiatou",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/869_55e8725e514c6.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/869_55e8725e514c6.jpg"
+        }
+      ],
+      "name": "Sofiatou SCHANOU"
     },
     {
       "family_name": "BAGOUDOU",
@@ -160,6 +208,25 @@
       "name": "Z. Adam BAGOUDOU"
     },
     {
+      "family_name": "AMOUSSOU",
+      "gender": "male",
+      "given_name": "Ange-Marie Bruno",
+      "id": "4e85e426-915a-4d6a-9d93-11f25bc62279",
+      "identifiers": [
+        {
+          "identifier": "amoussou_bruno",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/880_55eed4f62731e.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/880_55eed4f62731e.jpg"
+        }
+      ],
+      "name": "Ange-Marie Bruno AMOUSSOU"
+    },
+    {
       "family_name": "HOUNGBEDJI",
       "gender": "male",
       "given_name": "Adrien",
@@ -171,32 +238,6 @@
         }
       ],
       "name": "Adrien HOUNGBEDJI"
-    },
-    {
-      "family_name": "ATCHADE",
-      "gender": "male",
-      "given_name": "Nourénou",
-      "id": "555931b5-c68e-4208-a596-4a4cf638f5b7",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/881_55eed94d948d8.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/881_55eed94d948d8.jpg"
-        }
-      ],
-      "name": "Nourénou ATCHADE"
-    },
-    {
-      "family_name": "AHOSSI",
-      "gender": "male",
-      "given_name": "Léon C.",
-      "id": "57b462e6-2194-48ba-8ac6-efba9f3d1e20",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/877_55e9bb0fa3fe0.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/877_55e9bb0fa3fe0.jpg"
-        }
-      ],
-      "name": "Léon C. AHOSSI"
     },
     {
       "family_name": "ABIMBOLA",
@@ -212,17 +253,23 @@
       "name": "Jean-Michel ABIMBOLA"
     },
     {
-      "family_name": "AMOUSSOU",
+      "family_name": "AHOUANVOEBLA",
       "gender": "male",
-      "given_name": "Ange-Marie Bruno",
-      "id": "6268f6f4-84d3-400e-bbf1-313182ebb68f",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/880_55eed4f62731e.jpg",
-      "images": [
+      "given_name": "S. Augustin",
+      "id": "63025fdb-d367-4b55-b0f7-15dfd306afc0",
+      "identifiers": [
         {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/880_55eed4f62731e.jpg"
+          "identifier": "ahouanvoebla_augustin",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Ange-Marie Bruno AMOUSSOU"
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/862_55e7717c4f44d.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/862_55e7717c4f44d.jpg"
+        }
+      ],
+      "name": "S. Augustin AHOUANVOEBLA"
     },
     {
       "family_name": "BAGOUGOU",
@@ -238,29 +285,23 @@
       "name": "O. I. René BAGOUGOU"
     },
     {
-      "family_name": "GBADAMASSI",
+      "family_name": "IDJI",
       "gender": "male",
-      "given_name": "Rachidi",
-      "id": "8254c727-8905-4b9a-a363-8deacf4bad02",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/863_55e8450a29da7.jpg",
-      "images": [
+      "given_name": "Antoine Kolawolé",
+      "id": "7df9a02c-1a28-4954-ac04-2490d9988be4",
+      "identifiers": [
         {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/863_55e8450a29da7.jpg"
+          "identifier": "idji_kolawole",
+          "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Rachidi GBADAMASSI"
-    },
-    {
-      "family_name": "AGOUA",
-      "given_name": "Edmond",
-      "id": "8b83637c-0272-43fa-b9b3-4030498a94e6",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/873_55e9832115732.jpg",
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/860_55e76ea8877f7.jpg",
       "images": [
         {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/873_55e9832115732.jpg"
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/860_55e76ea8877f7.jpg"
         }
       ],
-      "name": "Edmond AGOUA"
+      "name": "Antoine Kolawolé IDJI"
     },
     {
       "family_name": "AHONOUKOU",
@@ -276,57 +317,6 @@
       "name": "Tossou Marcellin AHONOUKOU"
     },
     {
-      "family_name": "IDJI",
-      "gender": "male",
-      "given_name": "Antoine Kolawolé",
-      "id": "9412e3be-49af-4a23-955a-c9e25c817cf7",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/860_55e76ea8877f7.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/860_55e76ea8877f7.jpg"
-        }
-      ],
-      "name": "Antoine Kolawolé IDJI"
-    },
-    {
-      "family_name": "HOUNDETE",
-      "gender": "male",
-      "given_name": "Eric Louis Camille",
-      "id": "94caa244-3a1b-4e28-86a3-ae0a9764089d",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/852_55e5f86700d5c.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/852_55e5f86700d5c.jpg"
-        }
-      ],
-      "name": "Eric Louis Camille HOUNDETE"
-    },
-    {
-      "family_name": "SCHANOU",
-      "given_name": "Sofiatou",
-      "id": "982ea28f-30be-4c8e-b5f8-63581d1a246e",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/869_55e8725e514c6.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/869_55e8725e514c6.jpg"
-        }
-      ],
-      "name": "Sofiatou SCHANOU"
-    },
-    {
-      "family_name": "OKOUNLOLA-BIAOU",
-      "gender": "male",
-      "given_name": "André",
-      "id": "986d816a-701b-4987-97c9-5ededda8d703",
-      "image": "http://www.assemblee-nationale.bj/images/comprofiler/857_55e767ee05097.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.bj/images/comprofiler/857_55e767ee05097.jpg"
-        }
-      ],
-      "name": "André OKOUNLOLA-BIAOU"
-    },
-    {
       "family_name": "BAKO",
       "gender": "male",
       "given_name": "Idrissou",
@@ -338,6 +328,25 @@
         }
       ],
       "name": "Idrissou BAKO"
+    },
+    {
+      "family_name": "HOUDE",
+      "gender": "male",
+      "given_name": "Aditi Valentin",
+      "id": "a23db922-31f3-4567-870d-2929a09a7e3b",
+      "identifiers": [
+        {
+          "identifier": "houde_valentin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/854_55e5fe2d8c198.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/854_55e5fe2d8c198.jpg"
+        }
+      ],
+      "name": "Aditi Valentin HOUDE"
     },
     {
       "family_name": "HOUDEGBE",
@@ -366,6 +375,43 @@
       "name": "Chabi BAH GUERA"
     },
     {
+      "family_name": "AGOUA",
+      "given_name": "Edmond",
+      "id": "aea7ea59-ed00-4fef-a200-a16039768763",
+      "identifiers": [
+        {
+          "identifier": "agoua_edmond",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/873_55e9832115732.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/873_55e9832115732.jpg"
+        }
+      ],
+      "name": "Edmond AGOUA"
+    },
+    {
+      "family_name": "AGBOJETE",
+      "gender": "male",
+      "given_name": "Hounsa Justin",
+      "id": "b1e4d015-8584-4d64-ae43-73db49299e64",
+      "identifiers": [
+        {
+          "identifier": "agbodjete_justin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.bj/components/com_comprofiler/plugin/templates/bootstrap/images/avatar/nophoto_n.png",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/components/com_comprofiler/plugin/templates/bootstrap/images/avatar/nophoto_n.png"
+        }
+      ],
+      "name": "Hounsa Justin AGBOJETE"
+    },
+    {
       "family_name": "AKISSOE",
       "gender": "male",
       "given_name": "Houédougbé Noël",
@@ -390,6 +436,44 @@
         }
       ],
       "name": "Jérémie ADOMAHOU"
+    },
+    {
+      "family_name": "HOUNDETE",
+      "gender": "male",
+      "given_name": "Eric Louis Camille",
+      "id": "c406d12e-3820-407a-94d5-aab8c8189e32",
+      "identifiers": [
+        {
+          "identifier": "houndete_eric",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/852_55e5f86700d5c.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/852_55e5f86700d5c.jpg"
+        }
+      ],
+      "name": "Eric Louis Camille HOUNDETE"
+    },
+    {
+      "family_name": "ATCHADE",
+      "gender": "male",
+      "given_name": "Nourénou",
+      "id": "cf38cf66-3683-49f9-a517-6c8820ae1d90",
+      "identifiers": [
+        {
+          "identifier": "atchade_nourenou",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.bj/images/comprofiler/881_55eed94d948d8.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.bj/images/comprofiler/881_55eed94d948d8.jpg"
+        }
+      ],
+      "name": "Nourénou ATCHADE"
     },
     {
       "family_name": "GBIAN",
@@ -506,15 +590,15 @@
       ]
     },
     {
-      "area_id": "20",
+      "area_id": "6",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "union_paix_et_démocratie",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "0c9abb67-db96-4da5-911b-402dcae0945e",
+      "person_id": "1678e5ef-c90c-495d-b06b-820067108aca",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/justin_agbodjete"
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/claudine_prudencio"
         }
       ]
     },
@@ -523,7 +607,7 @@
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "1b659a14-b5a0-471d-bdc4-3700231e4b21",
+      "person_id": "17599d48-4158-45b0-aab3-d9bcc346f3fa",
       "role": "member",
       "sources": [
         {
@@ -532,15 +616,28 @@
       ]
     },
     {
-      "area_id": "6",
+      "area_id": "10",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "union_paix_et_démocratie",
+      "on_behalf_of_id": "république_et_unité_nationale",
       "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "1d404850-bb22-4553-8fca-b183439e68b1",
+      "person_id": "1b2c6405-05fc-40e5-9542-06eec12c8645",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/valentin_houde"
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/andre_okounlola"
+        }
+      ]
+    },
+    {
+      "area_id": "17",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
+      "person_id": "1c129121-23a5-474d-a700-c163ea77e552",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/leon_ahossi"
         }
       ]
     },
@@ -584,19 +681,6 @@
       ]
     },
     {
-      "area_id": "6",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "2e64ff93-c333-456d-a5fd-eb2c64209371",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/claudine_prudencio"
-        }
-      ]
-    },
-    {
       "area_id": "16",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "nation_unité_et_développpement",
@@ -623,15 +707,27 @@
       ]
     },
     {
-      "area_id": "20",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "4809d024-d782-4bcd-b38b-0908210bf1a6",
+      "person_id": "3d1930d4-c4fd-414a-b636-e24bd5a1439a",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/augustin_ahouanvoebla"
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/rachidi_gbadamassi"
+        }
+      ]
+    },
+    {
+      "area_id": "19",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "république_et_solidarité_nationale",
+      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
+      "person_id": "3f97c4ef-d800-45b9-b9cb-3a435f6d2278",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/sofiatou_schanou"
         }
       ]
     },
@@ -649,6 +745,19 @@
       ]
     },
     {
+      "area_id": "11",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
+      "person_id": "4e85e426-915a-4d6a-9d93-11f25bc62279",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/bruno_amoussou"
+        }
+      ]
+    },
+    {
       "area_id": "19",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "parti_du_renouveau_démocratique",
@@ -658,32 +767,6 @@
       "sources": [
         {
           "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/adrien_houngbedji"
-        }
-      ]
-    },
-    {
-      "area_id": "14",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "république_et_solidarité_nationale",
-      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "555931b5-c68e-4208-a596-4a4cf638f5b7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/nourenou_atchade"
-        }
-      ]
-    },
-    {
-      "area_id": "17",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "57b462e6-2194-48ba-8ac6-efba9f3d1e20",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/leon_ahossi"
         }
       ]
     },
@@ -700,15 +783,15 @@
       ]
     },
     {
-      "area_id": "11",
+      "area_id": "20",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "6268f6f4-84d3-400e-bbf1-313182ebb68f",
+      "person_id": "63025fdb-d367-4b55-b0f7-15dfd306afc0",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/bruno_amoussou"
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/augustin_ahouanvoebla"
         }
       ]
     },
@@ -726,27 +809,15 @@
       ]
     },
     {
+      "area_id": "21",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "8254c727-8905-4b9a-a363-8deacf4bad02",
+      "person_id": "7df9a02c-1a28-4954-ac04-2490d9988be4",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/rachidi_gbadamassi"
-        }
-      ]
-    },
-    {
-      "area_id": "10",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "république_paix_et_progrès",
-      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "8b83637c-0272-43fa-b9b3-4030498a94e6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/edmond_agoua"
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/kolawole_idji"
         }
       ]
     },
@@ -764,58 +835,6 @@
       ]
     },
     {
-      "area_id": "21",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "9412e3be-49af-4a23-955a-c9e25c817cf7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/kolawole_idji"
-        }
-      ]
-    },
-    {
-      "area_id": "5",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "94caa244-3a1b-4e28-86a3-ae0a9764089d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/eric_houndete"
-        }
-      ]
-    },
-    {
-      "area_id": "19",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "république_et_solidarité_nationale",
-      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "982ea28f-30be-4c8e-b5f8-63581d1a246e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/sofiatou_schanou"
-        }
-      ]
-    },
-    {
-      "area_id": "10",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "république_et_unité_nationale",
-      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
-      "person_id": "986d816a-701b-4987-97c9-5ededda8d703",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/andre_okounlola"
-        }
-      ]
-    },
-    {
       "area_id": "1",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "république_et_démocratie",
@@ -825,6 +844,19 @@
       "sources": [
         {
           "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/idrissou_bako"
+        }
+      ]
+    },
+    {
+      "area_id": "6",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "union_paix_et_démocratie",
+      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
+      "person_id": "a23db922-31f3-4567-870d-2929a09a7e3b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/valentin_houde"
         }
       ]
     },
@@ -855,6 +887,32 @@
       ]
     },
     {
+      "area_id": "10",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "république_paix_et_progrès",
+      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
+      "person_id": "aea7ea59-ed00-4fef-a200-a16039768763",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/edmond_agoua"
+        }
+      ]
+    },
+    {
+      "area_id": "20",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "union_paix_et_démocratie",
+      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
+      "person_id": "b1e4d015-8584-4d64-ae43-73db49299e64",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/justin_agbodjete"
+        }
+      ]
+    },
+    {
       "area_id": "19",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/_unknown",
@@ -877,6 +935,32 @@
       "sources": [
         {
           "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/jeremie_adomahou"
+        }
+      ]
+    },
+    {
+      "area_id": "5",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
+      "person_id": "c406d12e-3820-407a-94d5-aab8c8189e32",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/eric_houndete"
+        }
+      ]
+    },
+    {
+      "area_id": "14",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "république_et_solidarité_nationale",
+      "organization_id": "77c18b7e-2b64-4402-a19d-26a71a7da48e",
+      "person_id": "cf38cf66-3683-49f9-a517-6c8820ae1d90",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assemblee-nationale.bj/fr/profile-view/userprofile/nourenou_atchade"
         }
       ]
     },
