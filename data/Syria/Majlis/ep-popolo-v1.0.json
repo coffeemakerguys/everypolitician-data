@@ -1266,6 +1266,17 @@
       "name": "محمد فادي القرعان"
     },
     {
+      "birth_date": "1949-01-01",
+      "id": "3ba0b79b-5e96-41a8-8804-15638e50a865",
+      "identifiers": [
+        {
+          "identifier": "137",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "محمد بلال"
+    },
+    {
       "birth_date": "1951-01-01",
       "id": "3bba2b1b-e892-4c1c-99ee-ef27888a5df0",
       "identifiers": [
@@ -4346,11 +4357,6 @@
       "name": "رجاء النعال"
     },
     {
-      "birth_date": "1949-01-01",
-      "id": "e492403c-f41b-4468-8088-b146fdcfef21",
-      "name": "محمد بلال"
-    },
-    {
       "birth_date": "1953-01-01",
       "id": "e535d59f-0b20-44cd-88b7-456d2a0bdbf5",
       "identifiers": [
@@ -5783,6 +5789,19 @@
       "sources": [
         {
           "url": "http://parliament.gov.sy/arabic/index.php?node=211&nid=279&RID=1&Last=262&First=0&CurrentPage=0&FName=&LName=&City=&Cat=&Mem=&Com=&Aso=&or=&"
+        }
+      ]
+    },
+    {
+      "area_id": "area/اللاذقية",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/حزب_البعث_العربي_الاشتراكي",
+      "organization_id": "38d3ebeb-ed76-41c6-8b30-5ad9900f8f21",
+      "person_id": "3ba0b79b-5e96-41a8-8804-15638e50a865",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.sy/arabic/index.php?node=211&nid=0&RID=1&Last=262&First=0&CurrentPage=0&FName=&LName=&City=&Cat=&Mem=&Com=&Aso=&or=&"
         }
       ]
     },
@@ -7954,19 +7973,6 @@
       "sources": [
         {
           "url": "http://parliament.gov.sy/arabic/index.php?node=211&nid=239&RID=1&Last=262&First=0&CurrentPage=0&FName=&LName=&City=&Cat=&Mem=&Com=&Aso=&or=&"
-        }
-      ]
-    },
-    {
-      "area_id": "area/اللاذقية",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/حزب_البعث_العربي_الاشتراكي",
-      "organization_id": "38d3ebeb-ed76-41c6-8b30-5ad9900f8f21",
-      "person_id": "e492403c-f41b-4468-8088-b146fdcfef21",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.sy/arabic/index.php?node=211&nid=0&RID=1&Last=262&First=0&CurrentPage=0&FName=&LName=&City=&Cat=&Mem=&Com=&Aso=&or=&"
         }
       ]
     },
