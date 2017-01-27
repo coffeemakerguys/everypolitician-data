@@ -24525,12 +24525,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0048f176-9bc9-45c9-a8d6-d338fe692557",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aaitlaadila"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24562,12 +24557,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "013feffc-ca66-4dd1-a8eb-df35ba34026c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mghalem"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sale_-_medina",
@@ -24575,12 +24565,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0156f9c1-d73f-4b94-8d41-c563e12aefd1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/jmoatassim"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/ouezzane",
@@ -24588,12 +24573,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "023e518e-2e1f-4480-a9a8-b7d118f55891",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/omahrachi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/el_jadida",
@@ -24609,12 +24589,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "031aeefc-368c-43ed-9418-91fd4f1ff4b5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/houahbi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24646,12 +24621,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "04b44810-e26d-44d0-817f-8025e402de7c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/laitichou"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24695,12 +24665,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0585f92f-8dff-4126-af64-20da55f79861",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/lelkohli"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/tetouan",
@@ -24708,12 +24673,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "05880d99-f327-40a5-98c9-d893ecfe8c82",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mahnine"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24733,12 +24693,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "05b03648-e58a-435b-b1fa-9785c94e718f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nqchibel"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/chefchaouen",
@@ -24746,12 +24701,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "06adff9d-cf24-4fe1-ba90-5b744ac0c698",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aalaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/aousserd",
@@ -24759,12 +24709,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "06e52aed-3ce5-47a5-b028-cf90f8bb55ff",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aahlelmekki"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/safi",
@@ -24772,12 +24717,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "06e769a5-dd2e-4403-9ce5-a0bca378f009",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hadili"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/nouaceur",
@@ -24785,12 +24725,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0733eb95-dd89-432f-acce-25553770f6fc",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/arachid"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24822,12 +24757,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "082203bb-8f02-4ebe-b977-26f38f347f6f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mjoudar"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24859,12 +24789,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "08e6e980-44f7-4181-9026-c795545a6133",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/helmaski"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -24872,12 +24797,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "095c742c-ef0c-4b99-aa4c-15568711dd77",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nbahich"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24897,12 +24817,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "09991a77-047c-4e3c-b789-b30f9fdfd296",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/bkarouri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -24910,12 +24825,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "09c2dd76-4553-46e2-a07a-545c2215da03",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mkhalil"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24935,12 +24845,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "09fd081f-56d4-4462-b71b-3ea52c7d0f84",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mhejira"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -24960,12 +24865,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0a54e0d7-b80f-421d-874b-dfbaf57f883e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aghlalou"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/agadir_-_ida-_outanane",
@@ -24973,12 +24873,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0aef46a3-e9f4-4855-8e98-c3449a477dc4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/amessoudi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/chefchaouen",
@@ -24986,12 +24881,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0b62d764-4c69-42de-af0e-4904739cc648",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ibekkali"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/taroudannt_al_janoubia",
@@ -24999,12 +24889,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0bdffb39-0651-4390-8509-17ea08638375",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/akayyouh"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25024,12 +24909,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0c3a0f54-9a98-4dd9-aac3-9edcbf821ee9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/helharis"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25049,12 +24929,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0cd5f3fe-0d4a-4f56-9630-004084a6c9b2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/alebriki"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25086,12 +24961,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0de74431-8868-40ca-8a4e-dc99bcade423",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelbitar"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -25099,12 +24969,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0df80eaf-8a65-471d-9492-f479e6ea1083",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/afassifihri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/mohammadia",
@@ -25112,12 +24977,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0e241628-07e0-4b74-9fa0-517f1e8bea3f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sothmani"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/casablanca_-_anfa",
@@ -25125,12 +24985,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0e4be965-83ce-4a26-a835-bc1977df8e95",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sennassiri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25150,12 +25005,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0e555b3a-7a64-4d4d-a8ef-3253b51121d0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hsoufi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/berrechid",
@@ -25163,12 +25013,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0e735912-9183-4a75-b626-3c76b9756e39",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/zhaouas"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -25176,12 +25021,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "0edecab1-c686-4a58-a2bb-0b17a365bca6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/fsedas"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25213,12 +25053,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "108a95c2-3ff2-409f-a793-0c8449b754a6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nchabat"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/essaouira",
@@ -25226,12 +25061,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "108e57d5-cdf2-47ed-bcae-da87b97d6d39",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sidbaali"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25271,12 +25101,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "1257ecd8-b424-474b-8336-a1693e2c8c1f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/zouahabi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/ifrane",
@@ -25304,12 +25129,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "13167ffc-c989-4003-80d9-a104b42f2184",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mlahmouch"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25329,12 +25149,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "1327b937-b627-4aa7-9183-b2dd14095266",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbouchnif"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25374,12 +25189,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "13ea6806-6276-4924-bdfd-494e7913db05",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/anaciri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25411,12 +25221,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "149e0b37-f53c-4e9f-9446-45c5d85f3ce1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/yhadhoum"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/benslimane",
@@ -25432,12 +25237,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "168f57f5-0dea-474c-bf2f-73d32c49235b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/srahmouni"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/moulay_yacoub",
@@ -25445,12 +25245,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "16a732ae-1cac-4488-8d75-cbd904e3b212",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/myoussef"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/guelmim",
@@ -25458,12 +25253,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "174be709-0e84-492a-a7bc-3ea02cdbd453",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbouaida"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25495,12 +25285,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "180109d4-6593-4db0-a8c8-7d14d1eb60fb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hchafik"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -25508,12 +25293,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "182cd22f-8ae9-4044-b384-239ad83bb7b3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/imeras"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/ben_m'sick",
@@ -25521,12 +25301,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "188c1199-96e0-49c4-b8ec-22b6727d4da6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ajoubij"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25558,12 +25333,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "18d8ad74-3689-4790-9501-34a858508127",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/alachhab"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25583,12 +25353,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "18e8704a-eabb-4eb0-bc6f-5b7d171beb01",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hfouad"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -25596,12 +25361,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "190ca059-ba62-4946-b64c-f27773998241",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/azizaaba"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/aousserd",
@@ -25609,12 +25369,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "19646c4e-3721-466b-86a0-c60cbadac65e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mboubker"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25646,12 +25401,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "1a55cc4e-504d-4cc1-b329-8d4a663ee3c9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/iyaacoubi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/inzegane_-_ait_melloul",
@@ -25659,12 +25409,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "1ac65e96-c6ca-4e3d-a0c2-83d4202a1031",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rbouachra"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25684,12 +25429,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "1b12cbff-f590-4d91-aa55-46e8545aa856",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/delazamielidrissi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25733,12 +25473,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "1d2182e3-70af-45a3-8280-73b6c9685891",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/oboumriss"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/fquih_ben_salah",
@@ -25746,12 +25481,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "1d359af4-5093-420b-b8ff-e8e5e42413fe",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/cznaydi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25771,12 +25501,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "1e206901-5617-468d-9d6e-86ea763d3190",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/afouiqer"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25796,12 +25521,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2018eb70-6a87-4acc-bc5c-14e70e030677",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/maithammou"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25821,12 +25541,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "20861dd8-1a09-467f-82e5-b844a4366c87",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/szaydi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/fes_al_janoubia",
@@ -25834,12 +25549,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "20c9bcf7-1079-4f4f-8570-d6548f7067e5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/melharti"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/rabat_-_chellah",
@@ -25847,12 +25557,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "21bbd784-0fd3-436e-973b-77d969415131",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelkerraa"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/tanger-assilah",
@@ -25860,12 +25565,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "22090785-0b7c-430b-a9ef-0761a326ca72",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sabdelmoula"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/boujdour",
@@ -25873,12 +25573,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "22c89d85-48ec-4fe3-a66c-84d3c81ed7aa",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aaba"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -25886,12 +25581,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "231b24dd-2c19-463d-a21d-8ad22b88a068",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sbensahli"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25911,12 +25601,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2369cc3e-6418-4b91-bef1-1a32c2870b26",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/jnaciri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/nador",
@@ -25924,12 +25609,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2474599c-74e1-4177-84fe-bec0f72c9ade",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mmansouri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25949,12 +25629,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "24ca9717-67f6-4bca-b0e6-e6391b579020",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbourkayou"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -25998,12 +25673,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "273ae157-24f0-4c8e-8637-a66eee09a523",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/kchaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/nador",
@@ -26011,12 +25681,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "282830ad-bda2-4a4c-b88d-dd38ac469d9b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ftahiri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -26024,12 +25689,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2840200b-df33-458e-96d9-f57ab7d5964e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/kchennaq"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26061,12 +25721,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "29a9b01d-a361-46f5-b9b7-792956f982de",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/machrit"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26098,12 +25753,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2b7b8ede-55aa-4b9d-817a-89bcd871ce0e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mrahoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/khouribga",
@@ -26111,12 +25761,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2b93f21b-b200-44e9-ad91-5992f7fcf5c1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/helaarchi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26136,12 +25781,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2bfbf826-0414-43fe-9877-38b415ace4da",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/amaelainine"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26185,12 +25825,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2d03a087-9183-4a2f-9501-a684e0333111",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/cghoulmi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sidi_ifni",
@@ -26198,12 +25833,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2d510180-42bd-4579-9547-5acadf046f43",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbelafkih"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26223,12 +25853,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2db4d3c3-b877-42a4-beb6-c948af777df5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mtoutou"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -26236,12 +25861,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2dba2fbe-9533-499c-83b1-dffdf869a2f4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ftoussi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/berrechid",
@@ -26249,12 +25869,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2dca02c7-39a2-4d28-8ba7-f95c062af168",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/selkayyaf"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26298,12 +25913,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2e1552b3-bad7-4fc0-a03b-5e9ed95032f0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelmokrieelidrissi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26323,12 +25933,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2eb21117-7aad-46ab-bba7-43bcd17e8b7b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/gbadroun"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -26336,12 +25941,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2ecc20fe-147d-4228-980c-c2acf21b73f7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nzidane"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -26349,12 +25949,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "2f15bb84-5488-4cda-99c8-f44b1443ed3f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/souaallal"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26386,12 +25981,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "30137f50-87d3-4569-b8c9-6aea43eb7ae5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelaaidi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/gueliz_-_annakhil",
@@ -26399,12 +25989,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3019407e-ba7d-4058-aa12-9b1b16c9b3db",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rbendriouch"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26424,12 +26009,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "30c84041-e84c-4727-83c8-3a55e3a61c7f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/arezma"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/larache",
@@ -26437,12 +26017,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3132b7fa-65e8-4ea2-b7b1-32b6a9e6d5b6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aboukir"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26474,12 +26049,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "325852cb-c7fa-4801-9f2e-f4af67a66a27",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbaytas"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26523,12 +26093,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "33d4c9c0-b0be-4d61-ba47-04ef8ffbbf80",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/melkordi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/laayoune",
@@ -26536,12 +26101,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3444dbba-961b-4547-a92e-832d6efa7c0d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/bdaif"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/oujda-anjad",
@@ -26549,12 +26109,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "345e237c-88fd-48e7-9348-23d0d0201cfd",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ahamel"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26574,12 +26129,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "34f022cd-f136-4f0c-b183-6e99b6486b29",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mjoumani"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26647,12 +26197,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "35e871ad-2085-456d-87ae-cdbfe471abd4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/lelhamoud"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/rehamna",
@@ -26660,12 +26205,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "36326463-05d1-44ac-9d34-6d7026990b75",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/azaim"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26709,12 +26249,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3708df40-30f8-432f-859d-b248b42cfccb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/bfilali"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/el_jadida",
@@ -26722,12 +26257,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "375cfc4e-be3c-495b-964b-a1ba15c8daca",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mzahraoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26747,12 +26277,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3770dbdf-d2ac-4669-aa21-58fa7a51c950",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mlemhajri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/gueliz_-_annakhil",
@@ -26760,12 +26285,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3771eac0-3e36-4dd6-b05d-5815a0a11b49",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/yaitlhajlahcen"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26797,12 +26317,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "386b7fa5-fa4f-410b-91c2-b808bb20e3f9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ygharbi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26822,12 +26337,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "38e5419c-4220-4b67-b5fd-7768a2063ad0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ajeghaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26847,12 +26357,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3992f34c-6038-4d4c-b241-8170f6e2195a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/beddich"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/errachidia",
@@ -26860,12 +26365,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3ac863eb-27b0-408b-92ff-1413cac71d44",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/melomari"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26885,12 +26385,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3b7531d9-e5cc-4fad-9f93-c6bcfb6003ed",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/schiguer"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -26946,12 +26441,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3c0a6497-2b73-4dfe-99a0-89aaa2d26584",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mdidi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sidi_slimane",
@@ -26959,12 +26449,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3c0adfff-405a-4d77-a896-2cc1e5e2ab51",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mhefiani"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27016,12 +26501,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3cdecf2d-782d-4dd5-af39-9d7dab03f29d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ahennaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27041,12 +26521,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3cf06ccd-a138-40d7-b1e8-1165ddb9199d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nlotfi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/youssoufia",
@@ -27054,12 +26529,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3d446ef3-3d79-418d-a710-30d2f5c7f904",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/yrouijel"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -27067,12 +26537,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3eae015e-a9f2-4e31-a6bb-88393176923c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/afaouzizizi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27092,12 +26557,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3eb981b8-b3df-4c5b-9f23-e99c36a36be8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/abouzekri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/alhouceima",
@@ -27105,12 +26565,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3f6b9f3e-7d1a-49b2-91b9-86776e84770f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ozerrad"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27130,12 +26585,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "3fc6aad7-12c2-498e-922e-c9e5557c6865",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mmehria"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -27143,12 +26593,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "40738147-dd66-48af-bdfc-86092e9b5354",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/iazzaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27168,12 +26613,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4186adb9-dad5-4688-a21e-e47b6972adc2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rtamek"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27217,12 +26657,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "41e1e694-e48c-4666-a1ec-7a0c988e4c5e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mfadili"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27254,12 +26689,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4219cdd7-4695-4479-be1f-d7dbd59c480c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mrejdali"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27299,12 +26729,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "43045ecd-432e-4149-912e-14ab3192a7c4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mtarmounia"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27324,12 +26749,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "436eee52-f860-47dd-8404-188254d3f06f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/bammar"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27361,12 +26781,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "44d8f5d6-8961-44de-9ab8-f5aafe630913",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/amirdass"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -27374,12 +26789,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "452626dc-0937-4de0-a81d-f58cc4aa4447",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ltahiri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -27387,12 +26797,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "45bbdcaa-685a-4409-88b7-daa197027ce7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/szakhnini"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -27400,12 +26805,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "463f498e-8f15-4d93-96e7-519c264a3aef",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mtalbi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/bzou_-_ouaouizeght",
@@ -27413,12 +26813,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "46d6d999-c176-470d-a584-b1961a387672",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mreddad"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/el_gharb",
@@ -27426,12 +26821,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "47341f99-faa0-42e8-85a4-c437a166b262",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/jgharib"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27499,12 +26889,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "480201ff-e950-4e5e-a755-b6c9dde6303c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nnaciri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/settat",
@@ -27512,12 +26897,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4824fe23-361f-4963-b052-96455d52141e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aaboufaris"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27549,12 +26929,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "49a861ba-83a6-46fb-aaee-1589fc18871c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nsabri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27586,12 +26961,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4b0ef884-a2bc-4ae7-90ca-f9ca2019a3c8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/lhaddad"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27647,12 +27017,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4be7015f-022a-4248-a386-6a25c199d163",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mlachgar"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27684,12 +27049,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4d151068-1df0-4338-8f0a-ac5bedace43e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ehoussaini"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27709,12 +27069,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4d761709-9c7e-4907-ae6c-5cd8ffb74528",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/melhaya"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27734,12 +27089,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4e03aed9-f032-4fac-b96c-81a0098d8665",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/amekhdad"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/fquih_ben_salah",
@@ -27747,12 +27097,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4e5a52ee-8e4d-4764-a0c5-b55df72de580",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mmoubdi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/tiznit",
@@ -27760,12 +27105,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4e7cb014-a8c6-443d-bd75-ce052d38049b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/bboughden"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27797,12 +27137,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4ea24307-f817-4f66-9181-32e2eed7be1d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/gmerzouki"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/ain_sebaa_-_hay_mohammadi",
@@ -27810,12 +27145,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4ea97c96-bba3-408e-b50f-f245207720a1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hbenomar"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27859,12 +27189,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "4ff61875-24e2-4fc8-8c90-cabf52616e76",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/slomari"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/fquih_ben_salah",
@@ -27872,12 +27197,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "500d31d2-4c50-41bf-a305-6378a886b6b6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/achrika"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27921,12 +27241,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "52728897-2d82-4dd4-a745-400d3b73ed5e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/oabbassi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/larache",
@@ -27934,12 +27249,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "527ae599-12e7-473a-beac-f0f2154cf8ab",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/msimo"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27959,12 +27269,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "52a67705-bcaf-40fb-a9f0-3787faa84d76",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/eramid"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -27996,12 +27301,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "542d085a-f471-46d7-accd-6a3c134d4069",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/achaouki"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28045,12 +27345,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "55c55262-8588-4ff8-8bf9-29926e53ff3e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/felomari"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28126,12 +27421,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "56fd9316-4d82-4958-af8c-9b92d998b623",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbekkaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28151,12 +27441,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "57f83ede-72fd-4dc4-ad3c-ede8147f3581",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sahlhmad"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/benslimane",
@@ -28164,12 +27449,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "58162691-5e3c-4b82-93d9-32853b45667f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbenjelloul"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -28177,12 +27457,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "58ac68a5-9ecf-48fa-aba0-1c91efdfd57e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nmoutawakkil"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28202,12 +27477,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "58f595a7-6b8a-45e6-972d-b9cb807f05a5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aennajhi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28283,12 +27553,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "5c8e8a1e-1536-4af9-84a1-8ada8c922e21",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mmellal"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28320,12 +27585,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "5db2bbda-fec9-4493-b71b-4bec1b016026",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/tkamil"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28357,12 +27617,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "5eed2e70-93cd-4090-be6b-106038e75c75",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ameskine"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28382,12 +27637,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "5f14e118-8cbc-4f20-9dde-72b1fd890bc9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/akhzou"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -28395,12 +27645,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "5f403523-9c7b-41f7-b097-03d7a0026090",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mamri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -28408,12 +27653,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "5f8bf426-dee2-4dba-8fb9-bb0799936cf9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/tskalli"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -28421,12 +27661,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "5fbaa2df-290a-4323-b88e-f120698ecdf6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/fnazih"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/ifrane",
@@ -28434,12 +27669,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "5fe0d22f-cece-4a28-9487-ca2ff0e4fe3f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/arachidi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28483,12 +27713,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "61881528-043c-4bbc-8f19-aed8b24e91f6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/melhilali"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28508,12 +27733,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6226c08e-cee0-461b-bf91-0bf169a6b8cc",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hlanser"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/azilal_-_demnate",
@@ -28521,12 +27741,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6293d333-4297-4dc6-bb55-7a21c37709f7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/imouhi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/el_jadida",
@@ -28534,12 +27749,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6373c5c2-6a11-464c-9cf8-cbe8143431f5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/emkhanter"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28559,12 +27769,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6385a781-299b-4460-ac0e-386847fa6b5b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ofassifihri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28608,12 +27813,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "642c07a0-7335-4342-8998-6bc55bac0395",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ielbouyesfi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sidi_bernoussi",
@@ -28621,12 +27821,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6524c574-e264-4a40-98bb-828a90e1585a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/myatim"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28658,12 +27853,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "657d3772-fdb0-4256-b8ee-87ac2f192749",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/kziyani"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/menara",
@@ -28671,12 +27861,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "65d0edf2-fe20-43b6-a776-8d798d1fa465",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/okhafif"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28696,12 +27881,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "66b1e8f2-65cc-4de4-8910-11823c3dd8ed",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/maftati"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/taza",
@@ -28709,12 +27889,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6710160d-3eed-4ebf-ba4a-b1a9485332e0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/amessaoudi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28758,12 +27933,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6917594f-402e-445f-a43a-06c9106c397a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/midmoussa"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28807,12 +27977,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "698621a4-2f37-4baa-820b-e1fd5405dcba",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hboufrachen"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -28820,12 +27985,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "69873e23-6ec7-4e3b-b6a1-77df7e764bdb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/gaitbenelmadani"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28857,12 +28017,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6a0b56b8-d9a9-4b93-86dc-ca1e1b1dd8a4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aleblaq"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28882,12 +28037,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6a9f428a-fb24-49f2-afdd-d3a07d8999a7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/asbai"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28907,12 +28057,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6b59744d-2d26-4f18-92dc-0c25ed5a9e31",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelghazoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28932,12 +28077,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6d21d77a-36bc-4eb0-9740-0d31ab5882fa",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/eelmalki"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28957,12 +28097,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6d36acdd-8b3b-456a-ac64-7e6acfa9f16a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/dtemri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -28982,12 +28117,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6d4c3e6b-16e0-4a59-a2bb-74e9bf47c79c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/atoumi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/taourirt",
@@ -28995,12 +28125,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6d55c110-1eaf-40eb-9c8f-65166731f6ac",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mnacer"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29020,12 +28145,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6d6c7065-2057-4b5a-8779-0ba9b9622c51",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelamroui"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/tifelt_-_rommani",
@@ -29033,12 +28153,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6db5984d-0815-4e8d-b165-cec6b41b1899",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hfilali"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29058,12 +28173,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6dd360b7-d7e3-47c8-be3d-58dfb9c15de9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aouberka"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/errachidia",
@@ -29071,12 +28181,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6df2acd7-0b8e-43ec-a786-6847a37a5366",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/abouarfa"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29096,12 +28201,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6f4b7dfe-f402-412a-9be7-21fec52614ac",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hchabat"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29121,12 +28221,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6f91a790-dbd4-409a-9145-99ebb49c0d46",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/jmessaoudi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29146,12 +28241,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6f9ca3af-9e14-400f-aaea-244253d53e8c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/btouami"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -29159,12 +28249,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "6fa22700-0ca5-4e6d-aa44-62ee5366d5e6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/jbenchekrounkrimi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29196,12 +28281,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "717734c6-c1bd-4cb0-b2c7-e949013f01d8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mboulif"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29289,12 +28369,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "7735f772-e340-4da5-a3a0-d078ae5d97b0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/abouanou"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29350,12 +28425,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "78e238bd-259a-443a-a074-7ebd453b82bf",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ebenzaroual"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/chtouka_-_ait_baha",
@@ -29363,12 +28433,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "790e96ce-b13e-4cce-b18e-131bb34f94c5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sdor"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29388,12 +28453,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "7a18f689-5a91-41f2-903f-de62edccf1dc",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/saboulghali"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29425,12 +28485,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "7aca9a23-da15-4941-b176-95e9308d1002",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/kchami"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/dakhla",
@@ -29438,12 +28493,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "7b1d6b9b-d85e-4fdd-a567-1a9fcd00d74f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelarrak"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29463,12 +28513,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "7baab791-c98e-4ab0-be1f-85c124967bc3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/midaomar"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29488,12 +28533,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "7bfb3c80-cc4c-46a2-9f0a-31229dcc9be6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/dskalliadoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29537,12 +28577,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "7ecf8674-c1d7-40fe-ae0f-ff665a9f193d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nherouchi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -29550,12 +28585,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "7f4e8a30-e244-4fc6-8686-e284bc27c9ef",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/malami"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/el_medina_-_sidi_youssef_ben_ali",
@@ -29563,12 +28593,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "7f56346e-1435-4362-8bbd-e911ccbd79d0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mtoba"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29600,12 +28625,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "80c6eee2-0ab0-4b26-9705-2e84601e0868",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/fbersat"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/ain_chok",
@@ -29645,12 +28665,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8145d026-e143-44ed-8228-432124b81523",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/fsaadi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29670,12 +28685,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8187db11-fcf2-4bd4-82fe-e633f70ea3ba",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ahayker"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29695,12 +28705,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "820bcc98-a006-465a-8472-77e73fcb5c0a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mlkourch"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29732,12 +28737,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "834482e8-b98b-4632-8a7b-5b6eef9504e1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aadourrak"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29769,12 +28769,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "837c78eb-f1e8-4ae4-8ad8-15361b9de93c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mziti"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29794,12 +28789,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "847aadc0-c959-4c8c-a19c-f3936a5a9835",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/djeddi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -29807,12 +28797,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8569ca66-f7da-46bf-b24c-e866e26ccbf8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hrihab"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/midelt",
@@ -29820,12 +28805,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "857a9afa-f555-491e-a0ae-55d759fdfb5f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/oahmine"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29845,12 +28825,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8623a920-bed6-4401-9fdf-8fe0dd993f55",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mabbou"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/rabat-_mouhet",
@@ -29858,12 +28833,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8650dd71-ca36-45c8-8b4f-1848acfb3687",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mseddiki"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/meknes",
@@ -29871,12 +28841,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "86977982-acdd-4317-8596-e235055dc38d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/dqechal"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29896,12 +28861,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "87626c7f-7e6a-44f5-afb3-d8447557014a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sjoumani"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29921,12 +28881,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "87bf58ed-ed13-4155-b885-6bb051ccfb09",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mmerzouk"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29946,12 +28901,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "888d2616-079e-47ea-925c-5379dce64d9d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/abilat"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -29983,12 +28933,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "88b7e16f-0a5b-42c7-9fe2-4d69dcc8d961",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/tmimouni"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30008,12 +28953,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "89eb029d-a85c-45c4-9455-71cb95d396ed",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aatmoun"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30045,12 +28985,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8a779cef-f74d-4cdc-8d22-1401ebdeee26",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/jafif"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30070,12 +29005,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8ad1bf02-a502-4f1e-b29f-a34132249984",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hbourkalan"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30095,12 +29025,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8ad88702-df1f-4bb6-aa82-892648b6fdce",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/eharich"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30144,12 +29069,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8ddae2ea-63dc-448a-b172-be7a6b592e09",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nlazrek"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30181,12 +29101,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8e4811bb-0ac2-4b62-8915-46bf4cd72c8d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mboudes"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/alhouceima",
@@ -30194,12 +29109,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8e588306-d09a-4160-a594-d40be7635eb5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mlaaraj"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30219,12 +29129,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "8e9a4d5d-6952-45d7-b650-5d5b80f7e5b1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mdrissi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30268,12 +29173,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "924387f1-ee26-4d9f-add3-a5633c21543e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aouadki"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/errachidia",
@@ -30281,12 +29181,7 @@
       "on_behalf_of_id": "PGVM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "92889e87-95f4-4763-9f04-7ba2140f67dd",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aouiddi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/ain_sebaa_-_hay_mohammadi",
@@ -30294,12 +29189,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "929d71e0-1600-4e2f-8110-5b7c87112c1d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelomari"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30319,12 +29209,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "92b4ddb0-cbc6-4869-800c-88ff57007cc6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hibrahimi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30344,12 +29229,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "93259796-443d-42db-8a0d-b93c912c785c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/afarah"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/fquih_ben_salah",
@@ -30357,12 +29237,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "934d9d3a-89d3-4cdc-8eaf-b5c15f87728e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/blbida"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30394,12 +29269,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "94e8d19e-c86d-4ca1-a1e0-37108755ec41",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aidabadda"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30419,12 +29289,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "94ebd20e-95cb-4d40-b1c4-1b2b8f8140ff",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mnazoumi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/mohammadia",
@@ -30432,12 +29297,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "94f2b9cf-871d-44cd-b435-68a3435b658d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/tbmzagh"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30469,12 +29329,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "95a52945-61a6-4191-8e25-6e91f7816f13",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mouahssat"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/khouribga",
@@ -30482,12 +29337,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "95d47089-1b1b-4b22-bb3a-08ed7d8071f4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mzekrani"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30543,12 +29393,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "96d104c2-2850-497f-ac6a-a5021c222f70",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/majbil"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30568,12 +29413,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "97465baa-7ef1-4172-a738-f744a68e4c85",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbernichi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/agadir_-_ida-_outanane",
@@ -30581,12 +29421,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "97850bb8-9ee1-47b6-a43d-2ac4e4ddf72c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ichoukri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/safi",
@@ -30594,12 +29429,7 @@
       "on_behalf_of_id": "MDS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "979e2697-80f9-45b6-a5b5-2092f701c080",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/telmaski"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -30607,12 +29437,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "97c890a8-92cd-4516-b2b1-ecc8babcba44",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/bchouiykh"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30632,12 +29457,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "986d0780-9fb2-4a4b-8b30-138cea6e3a6c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelaouni"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30681,12 +29501,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "99478195-ea3b-417e-ba8e-9838cbf896f6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mouldrchid"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30718,12 +29533,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9a4c1815-e93f-4cfa-9912-131e123d6953",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/oelbekkali"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30743,12 +29553,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9b1274c4-fb17-491a-8255-cf911f57009e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mkhayyi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30780,12 +29585,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9c2b2d20-0504-4e63-ae77-3f31113ff69f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nrafik"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30805,12 +29605,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9ce0e328-0f79-48f5-b841-9f8020c34735",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mhamdaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30830,12 +29625,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9e804554-c15a-42a6-998e-b4d2af4b38f4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/fderqaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30879,12 +29669,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9e9374cc-86dd-4385-aaf7-5e6240b21bc0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/haarif"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30916,12 +29701,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9ea53942-6add-4963-a3b2-b9bb5e4ed603",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mboujemaa"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/meknes",
@@ -30929,12 +29709,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9ea74d29-505a-470c-9025-cddcde2a65c3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/btahiri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -30990,12 +29765,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "9fa7742d-9e61-4db4-96fe-cd6948560de3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/acheggaf"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/chtouka_-_ait_baha",
@@ -31003,12 +29773,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a0056583-4603-48e5-b9b4-81dbdf4bb8d1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/eazougagh"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31028,12 +29793,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a0639856-e8e2-49d0-b0c3-53fa795cd429",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/brachid"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31053,12 +29813,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a13a5d8d-574f-497d-967e-ade04aa5fcb8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/shoulich"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sale_al_jadida",
@@ -31066,12 +29821,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a1828b17-36d6-40e7-961a-e9c4f068b145",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aamara"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/midelt",
@@ -31079,12 +29829,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a20c8927-f47e-4520-85fa-8918c620ccb7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rghanem"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31104,12 +29849,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a2678e28-3970-49be-a97d-a774ab18fc41",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/relhilaa"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31141,12 +29881,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a30baf8d-26f6-4cfd-9e0b-fbb312452a95",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hbelqsaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/menara",
@@ -31154,12 +29889,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a30dc697-6c9e-4860-9a54-e33f1ec5cf5a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbelcaid"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31191,12 +29921,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a47c4ea3-585c-4d0d-811b-a97cdaa8043c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aradi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31228,12 +29953,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a4ceeb7e-5cb9-4b06-b0e7-cece355fe677",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ybenslimane"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31265,12 +29985,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a502f47e-e44e-49ec-ab27-c09e8b50e5b0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/klaafou"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31298,12 +30013,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a5a65132-5c2c-4082-853c-12104a2087a8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mkrimen"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sale_-_medina",
@@ -31311,12 +30021,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a61c6220-4078-4ddc-8e9b-bb8973497059",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rabdi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31360,12 +30065,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a72a906a-6fb9-456d-a88c-ae7a903786e2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/eboulon"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31397,12 +30097,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a7fcfea0-1d73-4891-81cb-f377bc9af8a0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/louaari"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31422,12 +30117,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a892326f-d584-4c46-8200-9fe2d9c1424c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mahouit"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -31435,12 +30125,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a8dbbb43-a6f4-413e-a45c-ab5d6e1719ae",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aarbouch"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sidi_kacem",
@@ -31448,12 +30133,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "a927ef1e-9ed6-49e8-8861-3f5bdd6640b5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelhiqi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31473,12 +30153,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "aa11efdf-2734-4bdc-be0c-0132024c27fa",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/melqori"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -31486,12 +30161,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "aa65e438-3ec3-4685-9640-3d8073a20bc9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rmansouri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/fes_achamalia",
@@ -31499,12 +30169,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "aa9760b3-ce27-47e4-bc21-7d8282d8392a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/abouhercha"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/rabat_-_chellah",
@@ -31512,12 +30177,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "aaa2b2f2-1d9c-44df-a481-9f5a154bb429",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/samrani"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31561,12 +30221,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "aca09c86-1271-427e-8af6-28b87f8e1e20",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbouhdoud"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31586,12 +30241,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "acab3c03-7aad-48f1-8c5e-f2e38e07d507",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nelyazidi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31623,12 +30273,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "adaf0296-2590-4eb1-9b8d-9489f12900b4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/eameskane"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/taza",
@@ -31636,12 +30281,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "ae9808de-e73f-4d6d-842a-abbe087c1595",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/akouskous"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31673,12 +30313,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "b0908091-7bb1-45d2-9c30-b059ec09ae01",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/tfaraj"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/meknes",
@@ -31686,12 +30321,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "b0ac4e07-d29c-48cb-bb6c-4d3a4191c93a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelansari"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31711,12 +30341,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "b1809fb9-3b76-4ff3-9c5f-791d2dc7ceb2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mibrahimi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31784,12 +30409,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "b3c9b264-bd6f-4d92-9743-42611ac59cc2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mzemmouri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31821,12 +30441,7 @@
       "on_behalf_of_id": "FGD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "b572270b-9c33-4bd9-b547-89663634b37a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mchennaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/mohammadia",
@@ -31834,12 +30449,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "b5876e36-7ba0-49ee-9232-6ff6e7ea8df0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/stadlaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31859,12 +30469,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "b6cd37bc-7003-42e0-af4c-9b5f4110c427",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rtalbialami"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31920,12 +30525,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "b93e0b13-3242-428a-a59d-487594382e36",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ilemmaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sefrou",
@@ -31933,12 +30533,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "ba4fe8aa-92ed-4a90-8287-7b93b860263f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/lsekkouri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -31970,12 +30565,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "bbd72faa-28bf-4353-8255-3095dde912a7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/abakouri"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/el_jadida",
@@ -31983,12 +30573,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "bc14b387-66e6-4006-bef8-a84e95dba8e4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/asajda"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32008,12 +30593,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "bc1746fe-8ed6-431e-a940-a965ad7b6ec5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aouaamar"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/m'diq-fnideq",
@@ -32021,12 +30601,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "bc53bd07-ae66-4a87-a3d4-94b41388c74f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aamniouel"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -32034,12 +30609,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "bd1696c5-2567-42da-bd3c-2d06a973ada1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mtaouil"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sidi_kacem",
@@ -32047,12 +30617,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "bd3ba20c-cc66-4fb4-97fa-473a22dea88c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/melhafed"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/beni_-_mellal",
@@ -32060,12 +30625,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "bdc06574-7431-4fe0-a7e7-c5ddd06b5b58",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ldaoudi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/khemisset_-_oulmes",
@@ -32073,12 +30633,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "bddf0aed-1036-4e0e-a90d-cf544a2623ec",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mchrourou"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/el_hajeb",
@@ -32086,12 +30641,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "bde1438d-4afd-4ae7-bf8b-606522cba432",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/kelboukarai"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32111,12 +30661,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "be1c52c6-38b9-4102-94ae-2107d0142e66",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/kredouani"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/el_kelaa_des_sraghna",
@@ -32124,12 +30669,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "be4b2cd4-fc4a-4098-8a86-b28d869f0601",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/baaloulal"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32185,12 +30725,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c0840ebd-6392-4be8-b76b-f81d371aabe5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sberhaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32210,12 +30745,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c1342780-af2b-4ee2-b59b-13f345a5f429",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mtoufla"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sefrou",
@@ -32223,12 +30753,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c19f4a40-dcc3-4275-8cf7-9f127d4befad",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/dmeskine"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/ain_sebaa_-_hay_mohammadi",
@@ -32236,12 +30761,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c214ea4f-8d3b-4555-9580-bddcdfd89338",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nelouafi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32273,12 +30793,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c2d44aff-ff63-479e-a902-e4cbf04adcb2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ajedar"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32322,12 +30837,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c3dacfa0-3e05-4215-9a83-dac453da90ec",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ibenrabiaa"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -32335,12 +30845,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c3f84d77-6391-4869-bcc1-3e09f91ada7e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/zmrini"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -32348,12 +30853,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c41554cc-057b-4e9d-a17c-76d445ca7acf",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/cimam"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -32361,12 +30861,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c4d90017-1777-4747-b1c0-8a24e93c18e9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/kelomari"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sefrou",
@@ -32374,12 +30869,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c5a70f25-9cef-4340-a1f1-66fa93482453",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/dchtibi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32399,12 +30889,7 @@
       "on_behalf_of_id": "PUD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c6662657-eb5e-441a-bf87-bb7769ea094f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/anaitidbou"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32436,12 +30921,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c782cf75-1b56-40df-b39e-8732162ae3da",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aharfi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/tinghir",
@@ -32449,12 +30929,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c796c9ef-e3cf-4d62-bbbe-26da0deb3e31",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/asidki"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32474,12 +30949,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c7f465e1-d416-4281-b62c-d9d6aa10f2e5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/saitbouali"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32499,12 +30969,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c82e9984-ce57-4132-ad57-e0a39008fd2d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/alebbar"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32524,12 +30989,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c8a0c4d3-3b87-4b95-b88f-fd7c7e14d4a4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/bchaoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32549,12 +31009,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "c8a9d8e9-e8e3-4a72-b998-e772ec743503",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/abrija"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32618,12 +31073,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "cb91882a-0588-4272-8fb2-89a2ef96fe83",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbenarbia"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -32631,12 +31081,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "cb926bd3-9835-42cd-86dd-964925473c37",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aidbouch"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -32644,12 +31089,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "cbd65712-f5b1-4cb0-ba31-ac78b7c30a41",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/helmechfoua"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32669,12 +31109,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "cc253b77-487f-42e4-a9ea-72c0a7f07afe",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aghazi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/tata",
@@ -32682,12 +31117,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "cc2da721-f293-4cf9-8852-de1ae31538a9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ebouzehay"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/fahs-anjra",
@@ -32695,12 +31125,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "cc30b148-ee6c-4e9b-b3ea-366a1f61afee",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/sboulaychhejraoui"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32720,12 +31145,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "cc4e7115-3646-4abf-bef8-77809b032f81",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/fchaabi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/el_kelaa_des_sraghna",
@@ -32733,12 +31153,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "cccd632b-5629-497b-8116-e739fa92e36d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aourzazi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32770,12 +31185,7 @@
       "on_behalf_of_id": "USFP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "cdb8ceb0-8e20-45ae-a9df-8ee9e7b55cbc",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mmelahi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32815,12 +31225,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "d11fe1f4-089e-4525-99e7-c0dcc137fe75",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mmaayit"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32852,12 +31257,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "d2a35ef7-1af9-44b6-a337-26d79536d67b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/selmalouki"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32877,12 +31277,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "d32e8b19-9b39-48fe-a3d5-52eae1805fa8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/cmiyara"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/settat",
@@ -32922,12 +31317,7 @@
       "on_behalf_of_id": "FGD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "d5cb9bc4-857f-409e-9ae5-30c999535475",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/obalafrej"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -32959,12 +31349,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "d674e396-34f2-42cc-aa5b-a0a013d65339",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/jdaouahi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/sale_al_jadida",
@@ -32972,12 +31357,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "d7401fd8-13ea-400f-ada4-425b8d1b0b73",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbenatiya"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -32985,12 +31365,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "d7720ceb-367c-421e-bcda-3bbd6c4efc7c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mmoufdi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/rabat-_mouhet",
@@ -32998,12 +31373,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "d7d4ac2e-4729-4851-98ec-cc5e1f7bc57e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/abenyaacoub"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33023,12 +31393,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "d7e64065-acc9-4e23-993c-22b5bbbfe993",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aomari"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33084,12 +31449,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "db54f4a7-6da1-4429-9d56-76c295517870",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mhemmouti"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/jerada",
@@ -33097,12 +31457,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "db6f6c40-a0b5-40a2-9266-55418ed3fb6a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ydaghou"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33122,12 +31477,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "dc58ea28-f81b-4874-bfbf-c757e2846f62",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/hsaanan"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33147,12 +31497,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "dca27aaf-40af-48a4-9d2e-aad7e9c7a4f5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/arebbah"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/hay_hassani",
@@ -33160,12 +31505,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "dd3cebf9-9914-47ea-ba00-410a083919cf",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aboudraa"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33197,12 +31537,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "de3095b4-cdff-4b78-b651-efe137eee64d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/snmili"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/ouarzazate",
@@ -33210,12 +31545,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "dea29745-9c6c-4149-85cb-7512a1476ca5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/eessadeq"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/fes_aljanoubia",
@@ -33223,12 +31553,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "df812c5a-9697-4615-a635-a9d3915aa068",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/relfayeq"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33248,12 +31573,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "dfe3f053-0439-45d8-b373-466f872ecbf8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ianjar"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -33269,12 +31589,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e08e0e1b-391e-4a0d-a4f8-8a002bdc2447",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/melkhalfi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33306,12 +31621,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e0f393f8-f875-4880-8772-c73bb83fb001",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/eqada"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33367,12 +31677,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e408c7b4-2762-42a3-8c95-44657a700903",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aboukili"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33416,12 +31721,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e5ef9743-382a-4944-b9dc-321795953a2d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelahmadi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33485,12 +31785,7 @@
       "on_behalf_of_id": "MDS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e7fe5a83-8c09-4c03-bd0b-f446413685ef",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aarchane"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33510,12 +31805,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e86d1dc9-d564-439a-84ea-ca39ab792708",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/haitbaha"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33535,12 +31825,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e89aa93d-5fbe-4418-be63-b7eed53048ee",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mbelhassan"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/al_fida_-_mers_sultan",
@@ -33548,12 +31833,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e8c88623-1ec7-43d8-b861-e049655a88ca",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/jiraki"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33585,12 +31865,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e9083f2b-f35f-4423-b380-820d409f26a8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/achegri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33622,12 +31897,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e96e7f7c-03f2-496b-b61c-1fc4000d786b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/akendil"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33647,12 +31917,7 @@
       "on_behalf_of_id": "UC",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e97b4f74-78db-4b8a-8216-5d59238a52c5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/yerradi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33672,12 +31937,7 @@
       "on_behalf_of_id": "MDS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e99362fa-a7d9-449d-94a7-67220c069fd7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mamghar"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -33685,12 +31945,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "e9cad3b6-dd5f-41c8-8a8c-1a36f6d8ae7e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/fahltakrour"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33710,12 +31965,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "ea4d1ed2-26ac-4299-87bb-e7189eec8621",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mmoudden"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/khenifra",
@@ -33723,12 +31973,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "ea62acec-a23b-4225-a805-640f463feff8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/soughbal"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/alhouceima",
@@ -33736,12 +31981,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "ec30ab56-06c1-4ad2-8962-4f0343c48f54",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/nmoudian"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33785,12 +32025,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "ed3c8079-d241-4dec-9422-3d5454a312ed",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rkabil"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33822,12 +32057,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "ee1a1bb9-faa4-4bbc-a78a-783262528f6a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/anacifi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/al_haouz",
@@ -33835,12 +32065,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f05ccd25-4202-497d-930f-b65e7e66609d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mlaraki"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33872,12 +32097,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f1eeea09-9535-4105-9e51-fd69429c8f00",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mtahiri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33897,12 +32117,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f23a86b6-5fd9-4592-9fc7-2604385b6a44",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/fchoubani"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -33910,12 +32125,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f25f0fee-fa6c-42ae-a664-5410687641f2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rbougmazi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/fahs-anjra",
@@ -33923,12 +32133,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f283a8b7-339c-4dfd-bbee-cbbb123a967e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/rnouinou"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/figuig",
@@ -33936,12 +32141,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f289aada-f8b9-48b1-aed2-28b6658af2da",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/douqemni"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -33973,12 +32173,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f35b6067-5774-43ea-9873-7ae46956a235",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/achaabi"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -33986,12 +32181,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f4c5ffc9-5570-43ec-afaa-3b872b1c03c4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aaitheddou"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/oujda-anjad",
@@ -33999,12 +32189,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f4d5be90-c7c2-4583-9046-5ac435e922d7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/yhouar"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/taroudannt_chamalia",
@@ -34012,12 +32197,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f4d5c937-d6d4-47b7-90b3-3ba12f2f71d5",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aouahbi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34037,12 +32217,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f526117e-a420-47e2-bd07-89cafa3418ae",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/ahadori"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34062,12 +32237,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f5fdb1e9-48d2-432e-b1dc-aaddeaa94cad",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/gelhatimi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34087,12 +32257,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f6f4f518-2a9a-4625-ad91-6384af473e41",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/felmansouri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34136,12 +32301,7 @@
       "on_behalf_of_id": "RNI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f79e8fb5-b136-4ba3-bbfe-8f9dc06f4613",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mtadoumant"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34173,12 +32333,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f7f3b60d-836c-4a65-b507-fce07fa353d4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelbasri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34198,12 +32353,7 @@
       "on_behalf_of_id": "MP",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f8997ccc-7c55-4fa6-8cad-2719043a175d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/lahkim"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34235,12 +32385,7 @@
       "on_behalf_of_id": "PPS",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f93ed4a4-0323-4623-b676-bf99d5d6477e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aidrissibouzidi"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34272,12 +32417,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f998b28a-0b34-4ea3-a126-b6424754aba4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mqarrouq"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/national",
@@ -34285,12 +32425,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f9cae73a-63d8-4f44-90ac-7d79a0ee4e48",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/msafa"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/skhirate_-_temara",
@@ -34298,12 +32433,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f9dfca3b-2572-4062-9e7e-4ca00daf5f9e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/aelayed"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "area/taroudannt_al_janoubia",
@@ -34311,12 +32441,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "f9e1da36-e1e7-46b2-8754-82e5fcb0f9b3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/mourich"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34336,12 +32461,7 @@
       "on_behalf_of_id": "PAM",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "fa7c96a5-2775-4c61-aa5c-f63459c7bc42",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/kmansouri"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34373,12 +32493,7 @@
       "on_behalf_of_id": "PI",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "fb449bf8-6b41-4cab-915f-14f783e0f521",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/akhayyir"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
@@ -34422,12 +32537,7 @@
       "on_behalf_of_id": "PJD",
       "organization_id": "f3847dfb-5f61-47e0-8ba8-feb3f505a23e",
       "person_id": "fecec294-f709-472c-a1ed-4cacc7f939da",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.chambredesrepresentants.ma/en/m/melotmani"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/9",
