@@ -10432,12 +10432,20 @@
         "slug": "Assembly",
         "sources_directory": "data/Turks_and_Caicos_Islands/Assembly/sources",
         "popolo": "data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9bd6fc95046f3f8982429541131fd1e4833a1161/data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d01b9aab42e4cfbee2c483ea48a3de4d4544d876/data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json",
         "names": "data/Turks_and_Caicos_Islands/Assembly/names.csv",
-        "lastmod": "1486374836",
-        "person_count": 18,
-        "sha": "9bd6fc95046f3f8982429541131fd1e4833a1161",
+        "lastmod": "1486401939",
+        "person_count": 35,
+        "sha": "d01b9aab42e4cfbee2c483ea48a3de4d4544d876",
         "legislative_periods": [
+          {
+            "id": "term/2016",
+            "name": "3rd Assembly",
+            "start_date": "2016-12-15",
+            "slug": "2016",
+            "csv": "data/Turks_and_Caicos_Islands/Assembly/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d01b9aab42e4cfbee2c483ea48a3de4d4544d876/data/Turks_and_Caicos_Islands/Assembly/term-2016.csv"
+          },
           {
             "end_date": "2016-12-14",
             "id": "term/2012",
@@ -10445,10 +10453,10 @@
             "start_date": "2012-11-09",
             "slug": "2012",
             "csv": "data/Turks_and_Caicos_Islands/Assembly/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/05990096e31acabf8aa3866d11157835df93b506/data/Turks_and_Caicos_Islands/Assembly/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d01b9aab42e4cfbee2c483ea48a3de4d4544d876/data/Turks_and_Caicos_Islands/Assembly/term-2012.csv"
           }
         ],
-        "statement_count": 610,
+        "statement_count": 732,
         "type": "unicameral legislature"
       }
     ]
