@@ -6,6 +6,16 @@
       "type": "membership"
     },
     {
+      "file": "morph/data.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/turks-and-caicos-assembly",
+        "query": "SELECT *, '2016' AS term, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
+      },
+      "source": "https://www.gov.tc/index.php/government/house-of-assembly#",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
