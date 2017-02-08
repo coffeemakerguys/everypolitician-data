@@ -3335,8 +3335,16 @@
       "id": "85de866c-a620-4ea6-a7fc-3c1a93db7200",
       "identifiers": [
         {
+          "identifier": "4924003",
+          "scheme": "conor"
+        },
+        {
           "identifier": "266",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "241574112",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q18643062",
@@ -3650,6 +3658,10 @@
       "given_name": "László",
       "id": "87ad147e-d8e0-4b56-aee7-41fd41c3f077",
       "identifiers": [
+        {
+          "identifier": "6152035",
+          "scheme": "conor"
+        },
         {
           "identifier": "117",
           "scheme": "everypolitician_legacy"
@@ -8222,6 +8234,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "71169492",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q17484120",
           "scheme": "wikidata"
         }
@@ -11011,7 +11027,7 @@
       "other_names": [
         {
           "lang": "sl",
-          "name": "Stranka Mira Cerarja",
+          "name": "Stranka modernega centra",
           "note": "multilingual"
         },
         {
@@ -11082,6 +11098,11 @@
         {
           "lang": "ja",
           "name": "ミロ・ツェラル党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Stranka Mira Cerarja",
           "note": "multilingual"
         }
       ]
