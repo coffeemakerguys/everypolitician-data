@@ -4429,11 +4429,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Hungary/Assembly/sources",
         "popolo": "data/Hungary/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/821730e33c9d50e07deba32e80b16a35622c6ca0/data/Hungary/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7715c5e3c5b4903aeb776aa884a85e3be4ccf554/data/Hungary/Assembly/ep-popolo-v1.0.json",
         "names": "data/Hungary/Assembly/names.csv",
-        "lastmod": "1486468575",
+        "lastmod": "1486604088",
         "person_count": 201,
-        "sha": "821730e33c9d50e07deba32e80b16a35622c6ca0",
+        "sha": "7715c5e3c5b4903aeb776aa884a85e3be4ccf554",
         "legislative_periods": [
           {
             "id": "term/40",
@@ -4444,7 +4444,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/821730e33c9d50e07deba32e80b16a35622c6ca0/data/Hungary/Assembly/term-40.csv"
           }
         ],
-        "statement_count": 10228,
+        "statement_count": 10230,
         "type": "unicameral legislature"
       }
     ]
