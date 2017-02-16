@@ -3788,11 +3788,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Greece/Parliament/sources",
         "popolo": "data/Greece/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c06329c21a322fd5e25864d3b4fcac975328b885/data/Greece/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d345f1d8a50f5e9fa2da7e747cfba24229bcc04d/data/Greece/Parliament/ep-popolo-v1.0.json",
         "names": "data/Greece/Parliament/names.csv",
-        "lastmod": "1485503253",
+        "lastmod": "1486804694",
         "person_count": 1783,
-        "sha": "c06329c21a322fd5e25864d3b4fcac975328b885",
+        "sha": "d345f1d8a50f5e9fa2da7e747cfba24229bcc04d",
         "legislative_periods": [
           {
             "id": "term/17",
@@ -3947,7 +3947,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c06329c21a322fd5e25864d3b4fcac975328b885/data/Greece/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 80860,
+        "statement_count": 80869,
         "type": "unicameral legislature"
       }
     ]
